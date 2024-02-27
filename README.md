@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 🌐 Web
 
 + **[DichBox](https://github.com/Andrew1407/DichBox)**: Node JS, TypeScript, backend (express), fronted (React), PostgreSQL, test coverage, HTTP, REST API, online file container managment system: server & browser client.
-+ **[DichBoxMobile](https://github.com/Andrew1407/DichBoxMobile)**: Kotline, Android app, Retrofit, HTTP cleint for the DichBox API, test coverage.
++ **[DichBoxMobile](https://github.com/Andrew1407/DichBoxMobile)**: Kotlin, Android SDK, Retrofit, HTTP cleint for the DichBox API, test coverage.
 + **[Gamalia](https://github.com/Andrew1407/Gamalia)**: PHP, SQL, server app, e-shop prototype.
 + **[Domino](https://github.com/Andrew1407/Domino)**: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser cleint, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
 + **[gallows-remastered](https://github.com/Andrew1407/gallows-remastered)**: Node JS, console offline app, console & browser clients, server app, HTTP, WS, UDP, TCP strategies.
