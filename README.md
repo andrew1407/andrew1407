@@ -1,4 +1,4 @@
-# Andrew1407's profile
+# andrew1407's profile
 
 <!--
 **Andrew1407/Andrew1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
