@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 + **[ReignForce Training Server](https://github.com/Andrew1407/ReignForce/tree/main/TrainigServer)**: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
 + **[ReinforcementLearningGym](https://github.com/Andrew1407/ReinforcementLearningGym)**: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & onnx format (converters).
 + **[ImageUpscaler](https://github.com/Andrew1407/ImageUpscaler)**: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
++ **[SpeechRecognition](https://github.com/dgomilko/SpeechRecognition)**: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
 + **[AI_basics](https://github.com/Andrew1407/AI_basics)**: Python, Tensorflow, supervised learning, unsupervised learning, models architecture, GoogleNet, perceptron.
 
 ## 📐 Algorithms
@@ -67,6 +68,14 @@ Here are some ideas to get you started:
 
 + **[Computer Science Essentials](https://github.com/Andrew1407/ComputerScienceEssentials)**: C++, patterns, datastructs, sorting, etc.
 + **[OOP](https://github.com/Andrew1407/OOP)**: C++, object-oriented programming, patterns, etc.
++ **[Components of Software Engineering](https://github.com/G-V-G)**: version control, ci/cd, unit tests, Docker, Docker Compose, Golang, NodeJS.
+  + **[Server app](https://github.com/G-V-G/l1)**.
+  + **[Workflows & deploy](https://github.com/G-V-G/l2)**.
+  + **[Client-server app with db](https://github.com/G-V-G/l3)**.
+  + **[Event loop](https://github.com/G-V-G/l4)**.
+  + **[Build system](https://github.com/G-V-G/2.l1)**.
+  + **[Load balancer](https://github.com/G-V-G/2.l2)**.
 
 ## 💽 Database design
 + **[pantry](https://github.com/Andrew1407/pantry)**: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
++ **[SQL-Query-Optimization](https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md)**: db queries optimization, indexes, index scan, cluster index, сomposite index.
