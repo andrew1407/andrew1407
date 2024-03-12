@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 ## 📐 Algorithms
 
-+ **[from_Poland_with_love](https://github.com/Andrew1407/from_Poland_with_love)**: Python, Polish notation, console & window app.
 + **[expression_parser](https://github.com/Andrew1407/expression_parser)**: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor.
++ **[from_Poland_with_love](https://github.com/Andrew1407/from_Poland_with_love)**: Python, Polish notation, console & window app.
 + **[NumericalTechniques](https://github.com/Andrew1407/NumericalTechniques)**: C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), etc.
 + **[DiscreteStructures](https://github.com/Andrew1407/DiscreteStructures)**: Scilab, graphs, path traversal.
 + **[Algorithms](https://github.com/Andrew1407/Algorithms)**: Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy alhorithms, etc.
