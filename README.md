@@ -78,5 +78,6 @@ Here are some ideas to get you started:
   + **[Load balancer](https://github.com/G-V-G/2.l2)**.
 
 ## 💽 Database design
+
 + **[pantry](https://github.com/Andrew1407/pantry)**: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
 + **[SQL-Query-Optimization](https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md)**: db queries optimization, indexes, index scan, cluster index, сomposite index.
