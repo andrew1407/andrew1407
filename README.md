@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 + **[SpeechRecognition](https://github.com/dgomilko/SpeechRecognition)**: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
 + **[AI_basics](https://github.com/Andrew1407/AI_basics)**: Python, Tensorflow, supervised learning, unsupervised learning, models architecture, GoogleNet, perceptron.
 
-## 📐 Algorithms
+## 📈 Algorithms
 
 + **[expression_parser](https://github.com/Andrew1407/expression_parser)**: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor.
 + **[from_Poland_with_love](https://github.com/Andrew1407/from_Poland_with_love)**: Python, Polish notation, console & window app.
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 + **[ParallelCuda](https://github.com/Andrew1407/ParallelCuda)**: C++, Cuda, CPU & GPU calculation and data passing strategies.
 + **[ParallelOpenMP](https://github.com/Andrew1407/ParallelOpenMP)**: C++, OpenMp, mpi,, omp, CPU & GPU calculation and data passing strategies.
 
-## 🤖 Data science & computer vision
+## 📊 Data science & computer vision
 
 + **[DataScience](https://github.com/Andrew1407/DataScience)**: Python, Tensorflow, analyze data, anomalies detection, computer vision, opencv.
 + **[ComputerVision](https://github.com/Andrew1407/ComputerVision)**: Python, computer vision, opencv, format pixel matrices, image segmentation.
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   + **[Build system](https://github.com/G-V-G/2.l1)**.
   + **[Load balancer](https://github.com/G-V-G/2.l2)**.
 
-## 💽 Database design
+## 💿 Database design
 
 + **[pantry](https://github.com/Andrew1407/pantry)**: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
 + **[SQL-Query-Optimization](https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md)**: db queries optimization, indexes, index scan, cluster index, сomposite index.
