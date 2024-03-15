@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewgolovko)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endry1407@gmail.com)
+
+<!-- <a href="#" onclick="navigator.clipboard.writeText('endry1407@gmail.com'); return false;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Copy Email Address to Clipboard">
+</a> -->
+
 ## 🎮 Game projects & prototypes
 
 + **[ReignForce](https://github.com/Andrew1407/ReignForce)**: Unreal Engine 5, C++, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, onnx models.
