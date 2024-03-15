@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewgolovko)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endry1407@gmail.com)
 
 ## 🎮 Game projects & prototypes
