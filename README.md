@@ -15,162 +15,390 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewgolovko)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endry1407@gmail.com)
+<a href="https://www.linkedin.com/in/andrewgolovko">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:endry1407@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 ## 🎮 Game projects & prototypes
 
-+ **[ReignForce](https://github.com/Andrew1407/ReignForce)**: Unreal Engine 5, C++, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, onnx models.
-+ **[RqstClient](https://github.com/Andrew1407/RqstClient)**: Unreal Engine 5, C++, Enhanced Input, HTTP, WS, UDP, TCP protocols, client-server app, [ClientConnectionStrategies](https://github.com/Andrew1407/ClientConnectionStrategies) plugin.
-+ **[CartAndPole](https://github.com/Andrew1407/CartAndPole)**: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, onnx models.
-+ **[Reactivation](https://github.com/Andrew1407/Reactivation)**: Unity, C#, .Net, Third-Person Shooter, unit tests, neural networks, onnx models, Barracuda.
-+ **[GallowsGame](https://github.com/Andrew1407/GallowsGame)**: Unity, C#, .Net, unit tests, HTTP, WS, UDP, TCP protocols, client app, 2D game.
-+ **[gallows-remastered](https://github.com/Andrew1407/gallows-remastered)**: Node JS, console offline app, console & browser clients, server app, HTTP, WS, UDP, TCP strategies.
-+ **[Domino](https://github.com/Andrew1407/Domino)**: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser cleint, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
-+ **[Snake](https://github.com/Andrew1407/Snake)**: Java, Swing API, 2D Game.
+<ul>
+  <li>
+    <b><a href="https://github.com/Andrew1407/ReignForce">ReignForce</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, onnx models.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/RqstClient">RqstClient</a></b>: Unreal Engine 5, C++, Enhanced Input, HTTP, WS, UDP, TCP protocols, client-server app, <a href="https://github.com/Andrew1407/ClientConnectionStrategies">ClientConnectionStrategies</a> plugin.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/CartAndPole">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, onnx models.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Third-Person Shooter, unit tests, neural networks, onnx models, Barracuda.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/GallowsGame">GallowsGame</a></b>: Unity, C#, .Net, unit tests, HTTP, WS, UDP, TCP protocols, client app, 2D game.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/gallows-remastered">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, HTTP, WS, UDP, TCP strategies.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser cleint, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/Snake">Snake</a></b>: Java, Swing API, 2D Game.
+  </li>
+</ul>
 
 ## 🌐 Web
 
-+ **[DichBox](https://github.com/Andrew1407/DichBox)**: Node JS, TypeScript, backend (express), fronted (React), PostgreSQL, test coverage, HTTP, REST API, online file container managment system: server & browser client.
-+ **[DichBoxMobile](https://github.com/Andrew1407/DichBoxMobile)**: Kotlin, Android SDK, Retrofit, HTTP cleint for the DichBox API, test coverage.
-+ **[Gamalia](https://github.com/Andrew1407/Gamalia)**: PHP, SQL, server app, e-shop prototype.
-+ **[Domino](https://github.com/Andrew1407/Domino)**: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser cleint, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
-+ **[gallows-remastered](https://github.com/Andrew1407/gallows-remastered)**: Node JS, console offline app, console & browser clients, server app, HTTP, WS, UDP, TCP strategies.
-+ **[ClientConnectionStrategies TestServersApp](https://github.com/Andrew1407/ClientConnectionStrategies/tree/main/TestServersApp)**: Node JS, server app, HTTP, WS, UDP, TCP strategies to serve.
+<ul>
+  <li>
+    <b><a href="https://github.com/Andrew1407/DichBox">DichBox</a></b>: Node JS, TypeScript, backend (express), fronted (React), PostgreSQL, test coverage, HTTP, REST API, online file container management system: server & browser client.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/DichBoxMobile">DichBoxMobile</a></b>: Kotlin, Android SDK, Retrofit, HTTP client for the DichBox API, test coverage.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/Gamalia">Gamalia</a></b>: PHP, SQL, server app, e-shop prototype.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/gallows-remastered">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, HTTP, WS, UDP, TCP strategies.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/ClientConnectionStrategies/tree/main/TestServersApp">ClientConnectionStrategies TestServersApp</a></b>: Node JS, server app, HTTP, WS, UDP, TCP strategies to serve.
+  </li>
+</ul>
+
 
 ## 🧠 Machine learning
 
-+ **[ReignForce Training Server](https://github.com/Andrew1407/ReignForce/tree/main/TrainigServer)**: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
-+ **[ReinforcementLearningGym](https://github.com/Andrew1407/ReinforcementLearningGym)**: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & onnx format (converters).
-+ **[ImageUpscaler](https://github.com/Andrew1407/ImageUpscaler)**: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
-+ **[SpeechRecognition](https://github.com/dgomilko/SpeechRecognition)**: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
-+ **[AI_basics](https://github.com/Andrew1407/AI_basics)**: Python, Tensorflow, supervised learning, unsupervised learning, models architecture, GoogleNet, perceptron.
-  1. **[Fuzzy Control Systems Simulator](https://github.com/andrew1407/AI_basics/tree/main/1-lab)**.
-  2. **[Fuzzy Membership Functions](https://github.com/andrew1407/AI_basics/tree/main/2-lab)**.
-  3. **[C-Means Clustering](https://github.com/andrew1407/AI_basics/tree/main/3-lab)**.
-  4. **[Backpropagation Algorithms](https://github.com/andrew1407/AI_basics/tree/main/4-lab)**.
-  5. **[Hebbian Learning Rule](https://github.com/andrew1407/AI_basics/tree/main/5-lab)**.
-  6. **[Adaptive Neuro-Fuzzy Inference System (ANFIS)](https://github.com/andrew1407/AI_basics/tree/main/6-lab)**.
-  7. **[Evolutionary Algorithm](https://github.com/andrew1407/AI_basics/tree/main/7-lab)**.
-  8. **[Genetic Algorithm](https://github.com/andrew1407/AI_basics/tree/main/8-lab)**.
-  9. **[Handwritten Digit Recognition](https://github.com/andrew1407/AI_basics/tree/main/9-lab)**.
-  10. **[Convolutional Neural Network (CNN)](https://github.com/andrew1407/AI_basics/tree/main/10-lab)**.
-  11. **[GoogleNet](https://github.com/andrew1407/AI_basics/tree/main/11-lab)**.
-  12. **[Sentiment Analysis](https://github.com/andrew1407/AI_basics/tree/main/12-lab)**.
+<ul>
+  <li>
+    <b><a href="https://github.com/Andrew1407/ReignForce/tree/main/TrainigServer">ReignForce Training Server</a></b>: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & onnx format (converters).
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/ImageUpscaler">ImageUpscaler</a></b>: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/dgomilko/SpeechRecognition">SpeechRecognition</a></b>: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b><a href="https://github.com/Andrew1407/AI_basics">AI_basics</a></b>: Python, Tensorflow, supervised learning, unsupervised learning, models architecture.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/1-lab">Fuzzy Control Systems Simulator</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/2-lab">Fuzzy Membership Functions</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/3-lab">C-Means Clustering</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/4-lab">Backpropagation Algorithms</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/5-lab">Hebbian Learning Rule</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/6-lab">Adaptive Neuro-Fuzzy Inference System (ANFIS)</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/7-lab">Evolutionary Algorithm</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/8-lab">Genetic Algorithm</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/9-lab">Handwritten Digit Recognition</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/10-lab">Convolutional Neural Network (CNN)</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/11-lab">GoogleNet</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/12-lab">Sentiment Analysis</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+</ul>
 
 ## 📈 Algorithms
 
-+ **[expression_parser](https://github.com/Andrew1407/expression_parser)**: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor.
-+ **[from_Poland_with_love](https://github.com/Andrew1407/from_Poland_with_love)**: Python, Polish notation, console & window app.
-+ **[SecuritySystems](https://github.com/Andrew1407/SecuritySystems)**: C++, disk model, console app, data access control, data crypto algorithms.
-+ **[NumericalTechniques](https://github.com/Andrew1407/NumericalTechniques)**: C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), etc.
-  + **[Seidel Iteration Method](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/2-lab.cpp)**.
-  + **[Chord Method](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/3-lab.cpp)**.
-  + **[Newton Simplified Method](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/4.1-lab.cpp)**.
-  + **[Steepest Descent Method](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/4.2-lab.cpp)**.
-  + **[Table Function Interpolation](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/5-lab.cpp)**.
-  + **[Table Function Approximation (Least Square Technique)](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/6-lab.cpp)**.
-  + **[Trapeze & Simpson's Methods](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/7-lab.cpp)**.
-  + **[Method Runge Kutta & Euler Method](https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/8-lab.cpp)**.
-+ **[DiscreteStructures](https://github.com/Andrew1407/DiscreteStructures)**: Scilab, graphs, path traversal.
-  1. **[Adjacency Matrix](https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/1-lab_3.1.1.sce)**.
-  2. **[Analysis Of The Graph](https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/2-lab.sce)**.
-  3. **[Comprehensive Analysis Of The Directed Graph's Properties & Structure](https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/3-lab.sce)**.
-  4. **[Traversing The Graph](https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/4-lab.sce)**.
-  5. **[Finding The Minimum Spanning Tree (MST)](https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/5-lab_1.1.sce)**.
-  6. **[Shortest Paths Search (Dijkstra's Algorithm)](https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/6-lab.sce)**.
-+ **[Algorithms](https://github.com/Andrew1407/Algorithms)**: Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy alhorithms, etc.
-  1. **[Insertion Sort](https://github.com/andrew1407/Algorithms/blob/main/scripts/1-lab.py)** ([other version](https://github.com/andrew1407/Algorithms/blob/main/scripts/haskell/1-lab.hs)).
-  2. **[Rating Generation](https://github.com/andrew1407/Algorithms/blob/main/scripts/2-lab.py)**.
-  3. **[Quick Sort](https://github.com/andrew1407/Algorithms/blob/main/scripts/3-lab.py)**.
-  4. **[Pyramid (Medians)](https://github.com/andrew1407/Algorithms/blob/main/scripts/4-lab.py)**.
-  5. **[Hash Tables](https://github.com/andrew1407/Algorithms/blob/main/scripts/5-lab.js)**.
-  6. **[Binary Tree](https://github.com/andrew1407/Algorithms/blob/main/scripts/6-lab.js)**.
-  7. **[Travelling Salesman Problem](https://github.com/andrew1407/Algorithms/blob/main/scripts/7-lab.py)**.
-  8. **[The Task Of The Backpack](https://github.com/andrew1407/Algorithms/blob/main/scripts/8-lab.py)**.
-+ **[OperatingSystems](https://github.com/Andrew1407/OperatingSystems)**: C++, Python, allocators, task manager, optimizations.
-  1. **[Memory Allocator](https://github.com/andrew1407/OperatingSystems/tree/main/1-lab)** (C++).
-  2. **[Buddy Memory Allocation Algorithm](https://github.com/andrew1407/OperatingSystems/tree/main/2-lab)** (C++).
-  3. **[Shortest Job First Algoritm](https://github.com/andrew1407/OperatingSystems/tree/main/3-lab)** (Python).
-  4. **[Rearrangement Operation By Criteria](https://github.com/andrew1407/OperatingSystems/tree/main/4-lab)** (Python).
-  5. **[Loop Optimization](https://github.com/andrew1407/OperatingSystems/tree/main/5-lab)** (C++).
-  6. **[Loop Optimization & Profiling](https://github.com/andrew1407/OperatingSystems/tree/main/6-lab)** (C++).
-+ **[EmbeddedSystems](https://github.com/Andrew1407/EmbeddedSystems)**: Python, Kotlin, perceptron, selection algorithms, real-time systems, etc.
-  1. **[Signal Generation](https://github.com/andrew1407/EmbeddedSystems/blob/main/1-lab/1-lab.py)** (Python).
-  2. **[Signal Correlation](https://github.com/andrew1407/EmbeddedSystems/blob/main/2-lab/2-lab.py)** (Python).
-  3. **[Discrete Fourier Transform (DTF)](https://github.com/andrew1407/EmbeddedSystems/blob/main/3-lab/3-lab.py)** (Python).
-  4. **[Performance comparison of the Discrete Fourier Transform (DFT) and the Fast Fourier Transform (FFT)](https://github.com/andrew1407/EmbeddedSystems/blob/main/4-lab/4-lab.py)** (Python).
-  5. **[Ferma Function](https://github.com/andrew1407/EmbeddedSystems/tree/main/5-lab/app/src/main/java/com/diches/embeddedsystems)** (Kotlin).
-  6. **[Perceptron](https://github.com/andrew1407/EmbeddedSystems/tree/main/6-lab/app/src/main/java/com/diches/embeddedsystems)** (Kotlin).
-  7. **[Genetic Algorithm](https://github.com/andrew1407/EmbeddedSystems/tree/main/7-lab/app/src/main/java/com/diches/embeddedsystems)** (Kotlin).
-  8. **[Scheduling](https://github.com/andrew1407/EmbeddedSystems/tree/main/rgr)** (Python).
-+ **[STD](https://github.com/Andrew1407/STD)**: masm32 assembly, register operations.
-  1. **[Numeric Values Convertion](https://github.com/andrew1407/STD/tree/main/1-lab)**.
-  2. **[Password Comparison](https://github.com/andrew1407/STD/tree/main/2-lab)**.
-  3. **[Password Authentication](https://github.com/andrew1407/STD/tree/main/3-lab)**.
-  4. **[Password Encryption & Comparison](https://github.com/andrew1407/STD/tree/main/4-lab)**.
-  5. **[Mathematical Operations](https://github.com/andrew1407/STD/tree/main/5-lab)**.
-  6. **[Floating-point Arithmetic](https://github.com/andrew1407/STD/tree/main/6-lab)**.
-  7. **[Separate Procedures & Modularity](https://github.com/andrew1407/STD/tree/main/7-lab)**.
-  8. **[DLL Modules](https://github.com/andrew1407/STD/tree/main/8-lab)**.
+<ul>
+  <li>
+    <b><a href="https://github.com/Andrew1407/expression_parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/from_Poland_with_love">from_Poland_with_love</a></b>: Python, Polish notation, console & window app.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/SecuritySystems">SecuritySystems</a></b>: C++, disk model, console app, data access control, data crypto algorithms.
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/NumericalTechniques">NumericalTechniques</a>
+        </b>
+        : C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), etc.
+      </summary>
+      <ul>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/2-lab.cpp">Seidel Iteration Method</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/3-lab.cpp">Chord Method</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/4.1-lab.cpp">Newton Simplified Method</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/4.2-lab.cpp">Steepest Descent Method</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/5-lab.cpp">Table Function Interpolation</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/6-lab.cpp">Table Function Approximation (Least Square Technique)</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/7-lab.cpp">Trapeze & Simpson's Methods</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/8-lab.cpp">Method Runge Kutta & Euler Method</a></b>.</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/DiscreteStructures">DiscreteStructures</a>
+        </b>
+        : Scilab, graphs, path traversal.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/1-lab_3.1.1.sce">Adjacency Matrix</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/2-lab.sce">Analysis Of The Graph</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/3-lab.sce">Comprehensive Analysis Of The Directed Graph's Properties & Structure</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/4-lab.sce">Traversing The Graph</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/5-lab_1.1.sce">Finding The Minimum Spanning Tree (MST)</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/6-lab.sce">Shortest Paths Search (Dijkstra's Algorithm)</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/Algorithms">Algorithms</a>
+        </b>
+        : Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy algorithms, etc.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/1-lab.py">Insertion Sort</a></b> (<a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/haskell/1-lab.hs">other version</a>).</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/2-lab.py">Rating Generation</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/3-lab.py">Quick Sort</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/4-lab.py">Pyramid (Medians)</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/5-lab.js">Hash Tables</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/6-lab.js">Binary Tree</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/7-lab.py">Travelling Salesman Problem</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/8-lab.py">The Task Of The Backpack</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/OperatingSystems">OperatingSystems</a>
+        </b>
+        : C++, Python, allocators, task manager, optimizations.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/1-lab">Memory Allocator</a></b> (C++).</li>
+        <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/2-lab">Buddy Memory Allocation Algorithm</a></b> (C++).</li>
+        <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/3-lab">Shortest Job First Algorithm</a></b> (Python).</li>
+        <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/4-lab">Rearrangement Operation By Criteria</a></b> (Python).</li>
+        <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/5-lab">Loop Optimization</a></b> (C++).</li>
+        <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/6-lab">Loop Optimization & Profiling</a></b> (C++).</li>
+      </ol>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/EmbeddedSystems">EmbeddedSystems</a>
+        </b>
+        : Python, Kotlin, perceptron, selection algorithms, real-time systems, etc.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/blob/main/1-lab/1-lab.py">Signal Generation</a></b> (Python).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/blob/main/2-lab/2-lab.py">Signal Correlation</a></b> (Python).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/blob/main/3-lab/3-lab.py">Discrete Fourier Transform (DTF)</a></b> (Python).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/blob/main/4-lab/4-lab.py">Performance comparison of the Discrete Fourier Transform (DFT) and the Fast Fourier Transform (FFT)</a></b> (Python).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/tree/main/5-lab/app/src/main/java/com/diches/embeddedsystems">Ferma Function</a></b> (Kotlin).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/tree/main/6-lab/app/src/main/java/com/diches/embeddedsystems">Perceptron</a></b> (Kotlin).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/tree/main/7-lab/app/src/main/java/com/diches/embeddedsystems">Genetic Algorithm</a></b> (Kotlin).</li>
+        <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/tree/main/rgr">Scheduling</a></b> (Python).</li>
+      </ol>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/STD">STD</a>
+        </b>
+        : masm32 assembly, register operations.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/1-lab">Numeric Values Conversion</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/2-lab">Password Comparison</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/3-lab">Password Authentication</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/4-lab">Password Encryption & Comparison</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/5-lab">Mathematical Operations</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/6-lab">Floating-point Arithmetic</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/7-lab">Separate Procedures & Modularity</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/STD/tree/main/8-lab">DLL Modules</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+</ul>
 
 ## ➗ Parallel programming
 
-+ **[ParallelCuda](https://github.com/Andrew1407/ParallelCuda)**: C++, Cuda, CPU & GPU calculation and data passing strategies.
-  1. **[Matrix Multiplication](https://github.com/andrew1407/ParallelCuda/tree/main/1-lab)**.
-  2. **[Frame animation](https://github.com/andrew1407/ParallelCuda/tree/main/2-lab)**.
-  3. **[Concurrent Computation](https://github.com/andrew1407/ParallelCuda/tree/main/3-lab)**.
-  4. **[Global & Constant Memory](https://github.com/andrew1407/ParallelCuda/tree/main/4-lab)**.
-  5. **[Monte Carlo Simulation](https://github.com/andrew1407/ParallelCuda/tree/main/5-lab)**.
-  6. **[Iterative Computations](https://github.com/andrew1407/ParallelCuda/tree/main/control-task)**.
-+ **[ParallelOpenMP](https://github.com/Andrew1407/ParallelOpenMP)**: C++, OpenMp, mpi,, omp, CPU & GPU calculation and data passing strategies.
-  1. **[Critical Section](https://github.com/andrew1407/ParallelOpenMP/tree/main/1-lab)**.
-  2. **[Parallelization Of Array](https://github.com/andrew1407/ParallelOpenMP/tree/main/2-lab)**.
-  3. **[Matrix Multiplication](https://github.com/andrew1407/ParallelOpenMP/tree/main/3-lab)**.
-  4. **[Sequential & Parallel Implementations Performance](https://github.com/andrew1407/ParallelOpenMP/tree/main/4-lab)**.
-  5. **[SIMD pragma](https://github.com/andrew1407/ParallelOpenMP/tree/main/5-lab)**.
-  6. **[Sequential & Parallel Calculations](https://github.com/andrew1407/ParallelOpenMP/tree/main/6-lab)**.
-  7. **[Communication Pattern Using MPI](https://github.com/andrew1407/ParallelOpenMP/tree/main/7-lab-mpi)**.
-  8. **[Aarray Transformation](https://github.com/andrew1407/ParallelOpenMP/tree/main/control-task)**.
+<ul>
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/ParallelCuda">ParallelCuda</a>
+        </b>
+        : C++, Cuda, CPU & GPU calculation and data passing strategies.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/1-lab">Matrix Multiplication</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/2-lab">Frame animation</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/3-lab">Concurrent Computation</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/4-lab">Global & Constant Memory</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/5-lab">Monte Carlo Simulation</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/control-task">Iterative Computations</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/ParallelOpenMP">ParallelOpenMP</a>
+        </b>
+        : C++, OpenMp, mpi, omp, CPU & GPU calculation and data passing strategies.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/1-lab">Critical Section</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/2-lab">Parallelization Of Array</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/3-lab">Matrix Multiplication</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/4-lab">Sequential & Parallel Implementations Performance</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/5-lab">SIMD pragma</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/6-lab">Sequential & Parallel Calculations</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/7-lab-mpi">Communication Pattern Using MPI</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/control-task">Array Transformation</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+</ul>
+
 
 ## 📊 Data science & computer vision
 
-+ **[DataScience](https://github.com/Andrew1407/DataScience)**: Python, Tensorflow, analyze data, anomalies detection, computer vision, opencv.
-  1. **[Synthetic Data Generation](https://github.com/andrew1407/DataScience/tree/main/1-lab)**.
-  2. **[Purifying Data](https://github.com/andrew1407/DataScience/tree/main/2-lab)**.
-  3. **[Anomalies Analysys](https://github.com/andrew1407/DataScience/tree/main/3-lab)**.
-  4. **[Determining Optimal Value By Criteria](https://github.com/andrew1407/DataScience/tree/main/4-lab)**.
-  5. **[Series Forecasting](https://github.com/andrew1407/DataScience/tree/main/5-lab)**.
-  6. **[Regression Analysis & Neural Network Predictions](https://github.com/andrew1407/DataScience/tree/main/6-lab)**.
-  7. **[Segment Generalization & Segmentation](https://github.com/andrew1407/DataScience/tree/main/7-lab)**.
-  8. **[Data Scoring & Prediction](https://github.com/andrew1407/DataScience/tree/main/8-lab)**.
-  8. **[Object Detection (YOLO)](https://github.com/andrew1407/DataScience/tree/main/9-lab)**.
-  9. **[Statistical Analysis](https://github.com/andrew1407/DataScience/tree/main/control-work)**.
-+ **[ComputerVision](https://github.com/Andrew1407/ComputerVision)**: Python, computer vision, opencv, format pixel matrices, image segmentation.
-  1. **[Polygon Animation](https://github.com/andrew1407/ComputerVision/tree/main/1-lab)**.
-  2. **[Figure Rotation & Projection](https://github.com/andrew1407/ComputerVision/tree/main/2-lab)**.
-  3. **[Rasterization](https://github.com/andrew1407/ComputerVision/tree/main/3-lab)**.
-  4. **[Vector-Based Rendering](https://github.com/andrew1407/ComputerVision/tree/main/4-lab)**.
-  5. **[Fractal Geometry](https://github.com/andrew1407/ComputerVision/tree/main/5-lab)**.
-  6. **[OpenGL Rendering](https://github.com/andrew1407/ComputerVision/tree/main/6-lab)**.
-  7. **[Image Processing Operations](https://github.com/andrew1407/ComputerVision/tree/main/7-lab)**.
-  8. **[Segmentation Algorithms](https://github.com/andrew1407/ComputerVision/tree/main/8-lab)**.
-  9. **[Object Recognition (YOLO)](https://github.com/andrew1407/ComputerVision/tree/main/9-lab)**.
-  10. **[3D shape manipulation](https://github.com/andrew1407/ComputerVision/tree/main/control-task)**.
+<ul>
+  <li>
+  <details>
+    <summary>
+      <b>
+        <a href="https://github.com/Andrew1407/DataScience">DataScience</a>
+      </b>
+      : Python, Tensorflow, analyze data, anomalies detection, computer vision, opencv.
+    </summary>
+    <ol>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/1-lab">Synthetic Data Generation</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/2-lab">Purifying Data</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/3-lab">Anomalies Analysys</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/4-lab">Determining Optimal Value By Criteria</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/5-lab">Series Forecasting</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/6-lab">Regression Analysis & Neural Network Predictions</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/7-lab">Segment Generalization & Segmentation</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/8-lab">Data Scoring & Prediction</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/9-lab">Object Detection (YOLO)</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/control-work">Statistical Analysis</a></b>.</li>
+    </ol>
+  </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b>
+          <a href="https://github.com/Andrew1407/ComputerVision">ComputerVision</a>
+        </b>
+        : Python, computer vision, opencv, format pixel matrices, image segmentation.
+      </summary>
+      <ol>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/1-lab">Polygon Animation</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/2-lab">Figure Rotation & Projection</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/3-lab">Rasterization</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/4-lab">Vector-Based Rendering</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/5-lab">Fractal Geometry</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/6-lab">OpenGL Rendering</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/7-lab">Image Processing Operations</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/8-lab">Segmentation Algorithms</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/9-lab">Object Recognition (YOLO)</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/control-task">3D shape manipulation</a></b>.</li>
+      </ol>
+    </details>
+  </li>
+</ul>
 
 ## 🖥️ Computer Science
 
-+ **[Computer Science Essentials](https://github.com/Andrew1407/ComputerScienceEssentials)**: C++, patterns, datastructs, sorting, etc.
-+ **[OOP](https://github.com/Andrew1407/OOP)**: C++, object-oriented programming, patterns, etc.
-+ **[Components of Software Engineering](https://github.com/G-V-G)**: version control, ci/cd, unit tests, Docker, Docker Compose, Golang, NodeJS.
-  + **[Server app](https://github.com/G-V-G/l1)**.
-  + **[Workflows & deploy](https://github.com/G-V-G/l2)**.
-  + **[Client-server app with db](https://github.com/G-V-G/l3)**.
-  + **[Event loop](https://github.com/G-V-G/l4)**.
-  + **[Build system](https://github.com/G-V-G/2.l1)**.
-  + **[Load balancer](https://github.com/G-V-G/2.l2)**.
+<ul>
+  <li>
+    <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/OOP">OOP</a></b>: C++, object-oriented programming, patterns, etc.
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b><a href="https://github.com/G-V-G">Components of Software Engineering</a></b>: version control, ci/cd, unit tests, Docker, Docker Compose, Golang, NodeJS.
+      </summary>
+      <ul>
+        <li><b><a href="https://github.com/G-V-G/l1">Server app</a></b>.</li>
+        <li><b><a href="https://github.com/G-V-G/l2">Workflows & deploy</a></b>.</li>
+        <li><b><a href="https://github.com/G-V-G/l3">Client-server app with db</a></b>.</li>
+        <li><b><a href="https://github.com/G-V-G/l4">Event loop</a></b>.</li>
+        <li><b><a href="https://github.com/G-V-G/2.l1">Build system</a></b>.</li>
+        <li><b><a href="https://github.com/G-V-G/2.l2">Load balancer</a></b>.</li>
+      </ul>
+    </details>
+  </li>
+</ul>
 
 ## 💿 Database design
 
-+ **[pantry](https://github.com/Andrew1407/pantry)**: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
-+ **[SQL-Query-Optimization](https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md)**: db queries optimization, indexes, index scan, cluster index, сomposite index.
+<ul>
+  <li>
+    <b><a href="https://github.com/Andrew1407/pantry">pantry</a></b>: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
+  </li>
+
+  <li>
+    <b><a href="https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md">SQL-Query-Optimization</a></b>: db queries optimization, indexes, index scan, cluster index, composite index.
+  </li>
+</ul>
+
