@@ -95,15 +95,38 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & onnx format (converters).
-  </li>
-
-  <li>
     <b><a href="https://github.com/Andrew1407/ImageUpscaler">ImageUpscaler</a></b>: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
   </li>
 
   <li>
     <b><a href="https://github.com/dgomilko/SpeechRecognition">SpeechRecognition</a></b>: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & onnx format (converters).
+      </summary>
+      <ul>
+        <li>
+          Frozen Lake Game:
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/frozen_lake.ipynb">state table</a></b>,
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/frozen_lake_tf.ipynb">TensorFlow model</a></b>,
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/frozen_lake_onnx.ipynb">ONNX model</a></b>.
+        </li>
+        <li>
+          Cart and Pole Game (state inputs)
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_tf_1.ipynb">TensorFlow model</a></b>,
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_onnx_1.ipynb">ONNX model</a></b>.
+        </li>
+        <li>
+          Cart and Pole Game (image inputs)
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_pytorch.ipynb">PyTorch model</a></b>,
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_tf_2.ipynb">TensorFlow model</a></b>,
+            <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_onnx_2.ipynb">ONNX model</a></b>.
+        </li>
+      </ul>
+    </details>
   </li>
 
   <li>
@@ -366,11 +389,17 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
-  </li>
-
-  <li>
-    <b><a href="https://github.com/Andrew1407/OOP">OOP</a></b>: C++, object-oriented programming, patterns, etc.
+    <details>
+      <summary>
+        <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
+      </summary>
+      <ul>
+        <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/blob/main/datastructs">Datastructs</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/tree/main/sorting">Sorting</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/blob/main/utils/classes">Classes</a></b>.</li>
+        <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/blob/main/utils/patternsUsage">Patterns</a></b>.</li>
+      </ul>
+    </details>
   </li>
 
   <li>
@@ -387,6 +416,10 @@ Here are some ideas to get you started:
         <li><b><a href="https://github.com/G-V-G/2.l2">Load balancer</a></b>.</li>
       </ul>
     </details>
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Andrew1407/OOP">OOP</a></b>: C++, object-oriented programming, patterns, etc.
   </li>
 </ul>
 
