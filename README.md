@@ -115,12 +115,12 @@ Here are some ideas to get you started:
             <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/frozen_lake_onnx.ipynb">ONNX model</a></b>.
         </li>
         <li>
-          Cart and Pole Game (state inputs)
+          Cart and Pole Game (state inputs):
             <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_tf_1.ipynb">TensorFlow model</a></b>,
             <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_onnx_1.ipynb">ONNX model</a></b>.
         </li>
         <li>
-          Cart and Pole Game (image inputs)
+          Cart and Pole Game (image inputs):
             <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_pytorch.ipynb">PyTorch model</a></b>,
             <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_tf_2.ipynb">TensorFlow model</a></b>,
             <b><a href="https://github.com/andrew1407/ReinforcementLearningGym/blob/main/cart_pole_onnx_2.ipynb">ONNX model</a></b>.
