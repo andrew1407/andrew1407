@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser cleint, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
   </li>
 
   <li>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <b><a href="https://github.com/Andrew1407/ReignForce/tree/main/TrainigServer">ReignForce Training Server</a></b>: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
+    <b><a href="https://github.com/Andrew1407/ReignForce/tree/main/TrainingServer">ReignForce Training Server</a></b>: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
   </li>
 
   <li>
@@ -345,7 +345,7 @@ Here are some ideas to get you started:
     <ol>
       <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/1-lab">Synthetic Data Generation</a></b>.</li>
       <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/2-lab">Purifying Data</a></b>.</li>
-      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/3-lab">Anomalies Analysys</a></b>.</li>
+      <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/3-lab">Anomalies Analysis</a></b>.</li>
       <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/4-lab">Determining Optimal Value By Criteria</a></b>.</li>
       <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/5-lab">Series Forecasting</a></b>.</li>
       <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/6-lab">Regression Analysis & Neural Network Predictions</a></b>.</li>
