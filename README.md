@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), frontend (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
   </li>
 
   <li>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <b><a href="https://github.com/Andrew1407/DichBox">DichBox</a></b>: Node JS, TypeScript, backend (express), fronted (React), PostgreSQL, test coverage, HTTP, REST API, online file container management system: server & browser client.
+    <b><a href="https://github.com/Andrew1407/DichBox">DichBox</a></b>: Node JS, TypeScript, backend (express), frontend (React), PostgreSQL, test coverage, HTTP, REST API, online file container management system: server & browser client.
   </li>
 
   <li>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), fronted (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), frontend (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
   </li>
 
   <li>
