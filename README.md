@@ -34,11 +34,11 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Third-Person Shooter, unit tests, neural networks, onnx models, Barracuda.
+    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Third-Person Shooter, unit tests, CI/CD, neural networks, onnx models, Barracuda.
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/GallowsGame">GallowsGame</a></b>: Unity, C#, .Net, unit tests, HTTP, WS, UDP, TCP protocols, client app, 2D game.
+    <b><a href="https://github.com/Andrew1407/GallowsGame">GallowsGame</a></b>: Unity, C#, .Net, unit tests, CI/CD, HTTP, WS, UDP, TCP protocols, client app, 2D game.
   </li>
 
   <li>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), frontend (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
   </li>
 
   <li>
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <b><a href="https://github.com/Andrew1407/DichBox">DichBox</a></b>: Node JS, TypeScript, backend (express), frontend (React), PostgreSQL, test coverage, HTTP, REST API, online file container management system: server & browser client.
+    <b><a href="https://github.com/Andrew1407/DichBox">DichBox</a></b>: Node JS, TypeScript, backend (Express), frontend (React), PostgreSQL, test coverage, CI/CD, HTTP, REST API, online file container management system: server & browser client.
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/DichBoxMobile">DichBoxMobile</a></b>: Kotlin, Android SDK, Retrofit, HTTP client for the DichBox API, test coverage.
+    <b><a href="https://github.com/Andrew1407/DichBoxMobile">DichBoxMobile</a></b>: Kotlin, Android SDK, Retrofit, HTTP client for the DichBox API, test coverage, CI/CD.
   </li>
 
   <li>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJs), frontend (React, NextJs), Redis database, 2-4 players game session, browser client, test coverage, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+    <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
   </li>
 
   <li>
@@ -152,7 +152,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <b><a href="https://github.com/Andrew1407/expression_parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor.
+    <b><a href="https://github.com/Andrew1407/expression_parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor, unit tests, CI/CD.
   </li>
 
   <li>
@@ -314,7 +314,7 @@ Here are some ideas to get you started:
         <b>
           <a href="https://github.com/Andrew1407/ParallelOpenMP">ParallelOpenMP</a>
         </b>
-        : C++, OpenMp, mpi, omp, CPU & GPU calculation and data passing strategies.
+        : C++, OpenMP, MPI, CPU & GPU calculation and data passing strategies.
       </summary>
       <ol>
         <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/1-lab">Critical Section</a></b>.</li>
@@ -340,7 +340,7 @@ Here are some ideas to get you started:
       <b>
         <a href="https://github.com/Andrew1407/DataScience">DataScience</a>
       </b>
-      : Python, Tensorflow, analyze data, anomalies detection, computer vision, opencv.
+      : Python, Tensorflow, analyze data, anomalies detection, computer vision, OpenCV.
     </summary>
     <ol>
       <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/1-lab">Synthetic Data Generation</a></b>.</li>
@@ -363,7 +363,7 @@ Here are some ideas to get you started:
         <b>
           <a href="https://github.com/Andrew1407/ComputerVision">ComputerVision</a>
         </b>
-        : Python, computer vision, opencv, format pixel matrices, image segmentation.
+        : Python, computer vision, OpenCV, format pixel matrices, image segmentation.
       </summary>
       <ol>
         <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/1-lab">Polygon Animation</a></b>.</li>
@@ -401,7 +401,7 @@ Here are some ideas to get you started:
   <li>
     <details>
       <summary>
-        <b><a href="https://github.com/G-V-G">Components of Software Engineering</a></b>: version control, ci/cd, unit tests, Docker, Docker Compose, Golang, NodeJS.
+        <b><a href="https://github.com/G-V-G">Components of Software Engineering</a></b>: version control, CI/CD, unit tests, Docker, Docker Compose, Golang, NodeJS.
       </summary>
       <ul>
         <li><b><a href="https://github.com/G-V-G/l1">Server app</a></b>.</li>
