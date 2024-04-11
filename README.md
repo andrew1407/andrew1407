@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>
-    <b><a href="https://github.com/Andrew1407/ReignForce">ReignForce</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, onnx models.
+    <b><a href="https://github.com/Andrew1407/ReignForce">ReignForce</a></b>: Unreal Engine 5, C++, Enemy AI, EQS, Decorators & Services, Senses (Perception), Behaviour Tree, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, ONNX models, Skills System Progression.
   </li>
 
   <li>
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/CartAndPole">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, onnx models.
+    <b><a href="https://github.com/Andrew1407/CartAndPole">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, ONNX models.
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Third-Person Shooter, unit tests, CI/CD, neural networks, onnx models, Barracuda.
+    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Third-Person Shooter, unit tests, CI/CD, neural networks, ONNX models, Barracuda.
   </li>
 
   <li>
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   <li>
     <details>
       <summary>
-        <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & onnx format (converters).
+        <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & ONNX format (converters).
       </summary>
       <ul>
         <li>
