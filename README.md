@@ -34,11 +34,11 @@ Here are some ideas to get you started:
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Third-Person Shooter, unit tests, CI/CD, neural networks, ONNX models, Barracuda.
+    <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Zenject, Third-Person Shooter, unit tests, CI/CD, neural networks, ONNX models, Barracuda.
   </li>
 
   <li>
-    <b><a href="https://github.com/Andrew1407/GallowsGame">GallowsGame</a></b>: Unity, C#, .Net, unit tests, CI/CD, HTTP, WS, UDP, TCP protocols, client app, 2D game.
+    <b><a href="https://github.com/Andrew1407/GallowsGame">GallowsGame</a></b>: Unity, C#, .Net, Zenject, unit tests, CI/CD, HTTP, WS, UDP, TCP protocols, client app, 2D game.
   </li>
 
   <li>
