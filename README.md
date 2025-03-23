@@ -135,7 +135,6 @@ Here are some ideas to get you started:
       <details>
         <summary>
           <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & ONNX format (converters).
-          <hr>
         </summary>
         <ul>
           <li>
@@ -162,7 +161,6 @@ Here are some ideas to get you started:
       <details>
         <summary>
           <b><a href="https://github.com/Andrew1407/AI_basics">AI_basics</a></b>: Python, Tensorflow, supervised learning, unsupervised learning, models architecture.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/1-lab">Fuzzy Control Systems Simulator</a></b>.</li>
@@ -214,7 +212,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/NumericalTechniques">NumericalTechniques</a>
           </b>
           : C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), etc.
-          <hr>
         </summary>
         <ul>
           <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/2-lab.cpp">Seidel Iteration Method</a></b>.</li>
@@ -235,7 +232,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/DiscreteStructures">DiscreteStructures</a>
           </b>
           : Scilab, graphs, path traversal.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/1-lab_3.1.1.sce">Adjacency Matrix</a></b>.</li>
@@ -254,7 +250,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/Algorithms">Algorithms</a>
           </b>
           : Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy algorithms, etc.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/1-lab.py">Insertion Sort</a></b> (<a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/haskell/1-lab.hs">other version</a>).</li>
@@ -275,7 +270,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/OperatingSystems">OperatingSystems</a>
           </b>
           : C++, Python, allocators, task manager, optimizations.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/1-lab">Memory Allocator</a></b> (C++).</li>
@@ -294,7 +288,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/EmbeddedSystems">EmbeddedSystems</a>
           </b>
           : Python, Kotlin, perceptron, selection algorithms, real-time systems, etc.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/blob/main/1-lab/1-lab.py">Signal Generation</a></b> (Python).</li>
@@ -315,7 +308,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/STD">STD</a>
           </b>
           : masm32 assembly, register operations.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/STD/tree/main/1-lab">Numeric Values Conversion</a></b>.</li>
@@ -350,7 +342,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/ParallelCuda">ParallelCuda</a>
           </b>
           : C++, Cuda, CPU & GPU calculation and data passing approaches.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/1-lab">Matrix Multiplication</a></b>.</li>
@@ -369,7 +360,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/ParallelOpenMP">ParallelOpenMP</a>
           </b>
           : C++, OpenMP, MPI, CPU & GPU calculation and data passing approaches.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/1-lab">Critical Section</a></b>.</li>
@@ -403,7 +393,6 @@ Here are some ideas to get you started:
           <a href="https://github.com/Andrew1407/DataScience">DataScience</a>
         </b>
         : Python, Tensorflow, analyze data, anomalies detection, computer vision, OpenCV.
-        <hr>
       </summary>
       <ol>
         <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/1-lab">Synthetic Data Generation</a></b>.</li>
@@ -426,7 +415,6 @@ Here are some ideas to get you started:
             <a href="https://github.com/Andrew1407/ComputerVision">ComputerVision</a>
           </b>
           : Python, computer vision, OpenCV, format pixel matrices, image segmentation.
-          <hr>
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/1-lab">Polygon Animation</a></b>.</li>
@@ -460,7 +448,6 @@ Here are some ideas to get you started:
       <details>
         <summary>
           <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
-          <hr>
         </summary>
         <ul>
           <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/blob/main/datastructs">Datastructs</a></b>.</li>
@@ -474,7 +461,6 @@ Here are some ideas to get you started:
       <details>
         <summary>
           <b><a href="https://github.com/G-V-G">Components of Software Engineering</a></b>: version control, CI/CD, unit tests, Docker, Docker Compose, Golang, NodeJS.
-          <hr>
         </summary>
         <ul>
           <li><b><a href="https://github.com/G-V-G/l1">Server app</a></b>.</li>
