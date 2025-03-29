@@ -24,18 +24,38 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="game-projects-and-prototypes">🎮 Game projects & prototypes</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <picture>
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </picture>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/zenject-%234B0082.svg?style=for-the-badge&logo=zenject&logoColor=white" alt="Zenject">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <picture>
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/zenject-%234B0082.svg?style=for-the-badge&logo=zenject&logoColor=white" alt="Zenject">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    </picture>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Swing">
+    <picture>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Swing">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -70,23 +90,51 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="web">🌐 Web</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS">
+    <picture>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS">
+    </picture>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+    <picture>
+      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+    </picture>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <picture>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </picture>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    <picture>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -115,10 +163,18 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="machine-learning">🧠 Machine learning</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -185,14 +241,30 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="algorithms">📈 Algorithms</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/haskell-%231278C3.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/scilab-EE7733.svg?style=for-the-badge&logo=scilab&logoColor=white" alt="Scilab">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/masm32-%23000000.svg?style=for-the-badge&logo=masm32&logoColor=white" alt="MASM32">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/assembly-%23CC6699.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
+    <picture>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/haskell-%231278C3.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/scilab-EE7733.svg?style=for-the-badge&logo=scilab&logoColor=white" alt="Scilab">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/masm32-%23000000.svg?style=for-the-badge&logo=masm32&logoColor=white" alt="MASM32">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/assembly-%23CC6699.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -328,10 +400,18 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="parallel-programming">➗ Parallel programming</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="Cuda">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/openmp-%23E34F26.svg?style=for-the-badge&logo=OpenMP&logoColor=white" alt="OpenMP">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/mpi-%2300599C.svg?style=for-the-badge&logo=MPI&logoColor=white" alt="MPI">
+    <picture>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="Cuda">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/openmp-%23E34F26.svg?style=for-the-badge&logo=OpenMP&logoColor=white" alt="OpenMP">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/mpi-%2300599C.svg?style=for-the-badge&logo=MPI&logoColor=white" alt="MPI">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -380,9 +460,15 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="data-science-and-computer-vision">📊 Data science & computer vision</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -437,10 +523,18 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="computer-science">🖥️ Computer Science</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <picture>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -482,8 +576,12 @@ Here are some ideas to get you started:
   <summary>
     <h2 id="database-design">💿 Database design</h2>
     <br>
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <picture>
+      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </picture>
     <hr>
   </summary>
   <ul>
