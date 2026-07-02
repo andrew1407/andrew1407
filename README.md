@@ -1,20 +1,3 @@
-# andrew1407's profile
-
-<!--
-**Andrew1407/Andrew1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewgolovko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endry1407@gmail.com)
 
@@ -60,28 +43,32 @@ Here are some ideas to get you started:
   </summary>
   <ul>
     <li>
+      <img src="https://github.com/andrew1407/ReignForce/raw/main/Doc/Resources/Icons/icon.ico" alt="ReignForce icon" height="16" />
       <b><a href="https://github.com/Andrew1407/ReignForce">ReignForce</a></b>: Unreal Engine 5, C++, Enemy AI, EQS, Decorators & Services, Senses (Perception), Behaviour Tree, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, ONNX models, Skills System Progression.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/RqstClient">RqstClient</a></b>: Unreal Engine 5, C++, Enhanced Input, HTTP, WS, UDP, TCP protocols, client-server app, <a href="https://github.com/Andrew1407/ClientConnectionStrategies">ClientConnectionStrategies</a> plugin.
+      🔌 <b><a href="https://github.com/Andrew1407/RqstClient">RqstClient</a></b>: Unreal Engine 5, C++, Enhanced Input, HTTP, WS, UDP, TCP protocols, client-server app, <a href="https://github.com/Andrew1407/ClientConnectionStrategies">ClientConnectionStrategies</a> plugin.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/CartAndPole">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, ONNX models.
+      🎢 <b><a href="https://github.com/Andrew1407/CartAndPole">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, ONNX models.
     </li>
     <li>
+      <img src="https://github.com/andrew1407/Reactivation/raw/main/Assets/Images/Icons/icon.png" alt="Reactivation icon" height="16" />
       <b><a href="https://github.com/Andrew1407/Reactivation">Reactivation</a></b>: Unity, C#, .Net, Zenject, Third-Person Shooter, unit tests, CI/CD, neural networks, ONNX models, Barracuda.
     </li>
     <li>
+      <img src="https://github.com/andrew1407/GallowsGame/raw/main/Assets/Art/icon.png" alt="GallowsGame icon" height="16" />
       <b><a href="https://github.com/Andrew1407/GallowsGame">GallowsGame</a></b>: Unity, C#, .Net, Zenject, unit tests, CI/CD, HTTP, WS, UDP, TCP protocols, client app, 2D game.
     </li>
     <li>
+      <img src="https://github.com/andrew1407/gallows-remastered/raw/main/server/public/images/logo.png" alt="gallows-remastered icon" height="16" />
       <b><a href="https://github.com/Andrew1407/gallows-remastered">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, Redis database, HTTP, WS, UDP, TCP approaches.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+      🁁 <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/Snake">Snake</a></b>: Java, Swing API, 2D Game.
+      🐍 <b><a href="https://github.com/Andrew1407/Snake">Snake</a></b>: Java, Swing API, 2D Game.
     </li>
   </ul>
 </details>
@@ -135,26 +122,40 @@ Here are some ideas to get you started:
     <picture>
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
     </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+    </picture>
     <hr>
   </summary>
   <ul>
     <li>
+      <img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" />
+      <b><a href="https://github.com/andrew1407/stencil">stencil</a></b>: WebAssembly (Emscripten) browser client, vanilla JS ES modules, Go collaboration platform (server), C++17 shared core, image annotation & drawing tool, REST API, WebSocket, TCP, PostgreSQL, Redis, Docker, CI/CD.
+    </li>
+    <li>
+      <img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBox icon" height="16" />
       <b><a href="https://github.com/Andrew1407/DichBox">DichBox</a></b>: Node JS, TypeScript, backend (Express), frontend (React), PostgreSQL, test coverage, CI/CD, HTTP, REST API, online file container management system: server & browser client.
     </li>
     <li>
+      <img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBoxMobile icon" height="16" />
       <b><a href="https://github.com/Andrew1407/DichBoxMobile">DichBoxMobile</a></b>: Kotlin, Android SDK, Retrofit, HTTP client for the DichBox API, test coverage, CI/CD.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/Gamalia">Gamalia</a></b>: PHP, SQL, server app, e-shop prototype.
+      🛒 <b><a href="https://github.com/Andrew1407/Gamalia">Gamalia</a></b>: PHP, SQL, server app, e-shop prototype.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+      🁁 <b><a href="https://github.com/Andrew1407/Domino">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
     </li>
     <li>
+      <img src="https://github.com/andrew1407/gallows-remastered/raw/main/server/public/images/logo.png" alt="gallows-remastered icon" height="16" />
       <b><a href="https://github.com/Andrew1407/gallows-remastered">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, Redis database, HTTP, WS, UDP, TCP approaches.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/ClientConnectionStrategies/tree/main/TestServersApp">ClientConnectionStrategies TestServersApp</a></b>: Node JS, server app, HTTP, WS, UDP, TCP approaches to serve.
+      🔌 <b><a href="https://github.com/Andrew1407/ClientConnectionStrategies/tree/main/TestServersApp">ClientConnectionStrategies TestServersApp</a></b>: Node JS, server app, HTTP, WS, UDP, TCP approaches to serve.
     </li>
   </ul>
 </details>
@@ -179,18 +180,19 @@ Here are some ideas to get you started:
   </summary>
   <ul>
     <li>
+      <img src="https://github.com/andrew1407/ReignForce/raw/main/Doc/Resources/Icons/icon.ico" alt="ReignForce icon" height="16" />
       <b><a href="https://github.com/Andrew1407/ReignForce/tree/main/TrainingServer">ReignForce Training Server</a></b>: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/ImageUpscaler">ImageUpscaler</a></b>: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
+      🖼️ <b><a href="https://github.com/Andrew1407/ImageUpscaler">ImageUpscaler</a></b>: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
     </li>
     <li>
-      <b><a href="https://github.com/dgomilko/SpeechRecognition">SpeechRecognition</a></b>: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
+      🎙️ <b><a href="https://github.com/dgomilko/SpeechRecognition">SpeechRecognition</a></b>: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
     </li>
     <li>
       <details>
         <summary>
-          <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & ONNX format (converters).
+          🤖 <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & ONNX format (converters).
         </summary>
         <ul>
           <li>
@@ -216,7 +218,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b><a href="https://github.com/Andrew1407/AI_basics">AI_basics</a></b>: Python, Tensorflow, supervised learning, unsupervised learning, models architecture.
+          🧠 <b><a href="https://github.com/Andrew1407/AI_basics">AI_basics</a></b>: Python, Tensorflow, supervised learning, unsupervised learning, models architecture.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/1-lab">Fuzzy Control Systems Simulator</a></b>.</li>
@@ -269,18 +271,18 @@ Here are some ideas to get you started:
   </summary>
   <ul>
     <li>
-      <b><a href="https://github.com/Andrew1407/expression_parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor, unit tests, CI/CD.
+      🧮 <b><a href="https://github.com/Andrew1407/expression_parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor, unit tests, CI/CD.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/from_Poland_with_love">from_Poland_with_love</a></b>: Python, Polish notation, console & window app.
+      🇵🇱 <b><a href="https://github.com/Andrew1407/from_Poland_with_love">from_Poland_with_love</a></b>: Python, Polish notation, console & window app.
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/SecuritySystems">SecuritySystems</a></b>: C++, disk model, console app, data access control, data crypto algorithms.
+      🔐 <b><a href="https://github.com/Andrew1407/SecuritySystems">SecuritySystems</a></b>: C++, disk model, console app, data access control, data crypto algorithms.
     </li>
     <li>
       <details>
         <summary>
-          <b>
+          📐 <b>
             <a href="https://github.com/Andrew1407/NumericalTechniques">NumericalTechniques</a>
           </b>
           : C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), etc.
@@ -300,7 +302,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          🔗 <b>
             <a href="https://github.com/Andrew1407/DiscreteStructures">DiscreteStructures</a>
           </b>
           : Scilab, graphs, path traversal.
@@ -318,7 +320,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          🧮 <b>
             <a href="https://github.com/Andrew1407/Algorithms">Algorithms</a>
           </b>
           : Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy algorithms, etc.
@@ -338,7 +340,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          🖥️ <b>
             <a href="https://github.com/Andrew1407/OperatingSystems">OperatingSystems</a>
           </b>
           : C++, Python, allocators, task manager, optimizations.
@@ -356,7 +358,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          🔌 <b>
             <a href="https://github.com/Andrew1407/EmbeddedSystems">EmbeddedSystems</a>
           </b>
           : Python, Kotlin, perceptron, selection algorithms, real-time systems, etc.
@@ -376,7 +378,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          ⚙️ <b>
             <a href="https://github.com/Andrew1407/STD">STD</a>
           </b>
           : masm32 assembly, register operations.
@@ -418,7 +420,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          ⚡ <b>
             <a href="https://github.com/Andrew1407/ParallelCuda">ParallelCuda</a>
           </b>
           : C++, Cuda, CPU & GPU calculation and data passing approaches.
@@ -436,7 +438,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          ⚡ <b>
             <a href="https://github.com/Andrew1407/ParallelOpenMP">ParallelOpenMP</a>
           </b>
           : C++, OpenMP, MPI, CPU & GPU calculation and data passing approaches.
@@ -475,7 +477,7 @@ Here are some ideas to get you started:
     <li>
     <details>
       <summary>
-        <b>
+        📊 <b>
           <a href="https://github.com/Andrew1407/DataScience">DataScience</a>
         </b>
         : Python, Tensorflow, analyze data, anomalies detection, computer vision, OpenCV.
@@ -497,7 +499,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b>
+          👁️ <b>
             <a href="https://github.com/Andrew1407/ComputerVision">ComputerVision</a>
           </b>
           : Python, computer vision, OpenCV, format pixel matrices, image segmentation.
@@ -535,13 +537,50 @@ Here are some ideas to get you started:
     <picture>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    </picture>
     <hr>
   </summary>
   <ul>
     <li>
+      <img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" />
+      <b><a href="https://github.com/andrew1407/stencil">stencil</a></b>: C++17 shared core, Qt 6 desktop app, WebAssembly (Emscripten) browser client, CLI, Python & Zig bindings, Rust MCP server, Go collaboration platform, .NET/C# Telegram bot, image annotation & drawing tool, CMake, Docker, PostgreSQL, Redis, WebSocket, TCP, REST API, CI/CD.
+    </li>
+    <li>
       <details>
         <summary>
-          <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
+          📚 <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
         </summary>
         <ul>
           <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/blob/main/datastructs">Datastructs</a></b>.</li>
@@ -554,7 +593,7 @@ Here are some ideas to get you started:
     <li>
       <details>
         <summary>
-          <b><a href="https://github.com/G-V-G">Components of Software Engineering</a></b>: version control, CI/CD, unit tests, Docker, Docker Compose, Golang, NodeJS.
+          🛠️ <b><a href="https://github.com/G-V-G">Components of Software Engineering</a></b>: version control, CI/CD, unit tests, Docker, Docker Compose, Golang, NodeJS.
         </summary>
         <ul>
           <li><b><a href="https://github.com/G-V-G/l1">Server app</a></b>.</li>
@@ -567,7 +606,7 @@ Here are some ideas to get you started:
       </details>
     </li>
     <li>
-      <b><a href="https://github.com/Andrew1407/OOP">OOP</a></b>: C++, object-oriented programming, patterns, etc.
+      🧩 <b><a href="https://github.com/Andrew1407/OOP">OOP</a></b>: C++, object-oriented programming, patterns, etc.
     </li>
   </ul>
 </details>
@@ -586,10 +625,10 @@ Here are some ideas to get you started:
   </summary>
   <ul>
     <li>
-      <b><a href="https://github.com/Andrew1407/pantry">pantry</a></b>: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
+      📦 <b><a href="https://github.com/Andrew1407/pantry">pantry</a></b>: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
     </li>
     <li>
-      <b><a href="https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md">SQL-Query-Optimization</a></b>: db queries optimization, indexes, index scan, cluster index, composite index.
+      🗄️ <b><a href="https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md">SQL-Query-Optimization</a></b>: db queries optimization, indexes, index scan, cluster index, composite index.
     </li>
   </ul>
 </details>
