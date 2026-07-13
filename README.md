@@ -133,8 +133,23 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/andrew1407/stencil"><img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" /></a>
-      <b><a href="https://github.com/andrew1407/stencil">stencil</a></b>: WebAssembly (Emscripten) browser client, vanilla JS ES modules, Go collaboration platform (server), C++17 shared core, image annotation & drawing tool, REST API, WebSocket, TCP, PostgreSQL, Redis, Docker, CI/CD.
+      <details>
+        <summary>
+          <a href="https://github.com/andrew1407/stencil"><img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" /></a>
+          <b><a href="https://github.com/andrew1407/stencil">stencil</a></b>: WebAssembly (Emscripten) browser client, vanilla JS ES modules, Go collaboration platform (server), C++17 shared core, image annotation & drawing tool, REST API, WebSocket, TCP, PostgreSQL, Redis, Docker, CI/CD.
+        </summary>
+        <ul>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/core">Core</a></b>: C++17, STL-only, GUI-free shared logic library (geometry, formulas, color, page metrics, history, projects).</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/server">Collaboration server</a></b>: Go, shared projects & live multi-client edit sessions, REST API, WebSocket, TCP, PostgreSQL, Redis, Docker.</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/mcp">MCP server</a></b>: Rust, exposes the CLI editing pipeline as MCP tools for any MCP client.</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/browser">Browser client</a></b>: vanilla JS ES modules, no build step, runs the shared core as WebAssembly (Emscripten) with a behavior-identical JS fallback.</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/extension">Chrome extension</a></b>: Manifest V3, vanilla JS, scans page images & feeds them into the browser editor.</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/desktop">Desktop client</a></b>: C++17, Qt 6, CMake, links the shared core natively.</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/cli">CLI client</a></b>: Zig, wraps the C++ core over a C ABI, headless image/video editing.</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/pystencil">pystencil</a></b>: stdlib-only Python package, drives the C++ core via ctypes (no third-party deps).</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/bot">Telegram bot</a></b>: .NET (C#), clean architecture, chat-driven editing via the CLI & server REST API.</li>
+        </ul>
+      </details>
     </li>
     <li>
       <a href="https://github.com/Andrew1407/DichBox"><img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBox icon" height="16" /></a>
@@ -574,8 +589,17 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/andrew1407/stencil"><img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" /></a>
-      <b><a href="https://github.com/andrew1407/stencil">stencil</a></b>: C++17 shared core, Qt 6 desktop app, WebAssembly (Emscripten) browser client, CLI, Python & Zig bindings, Rust MCP server, Go collaboration platform, .NET/C# Telegram bot, image annotation & drawing tool, CMake, Docker, PostgreSQL, Redis, WebSocket, TCP, REST API, CI/CD.
+      <details>
+        <summary>
+          <a href="https://github.com/andrew1407/stencil"><img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" /></a>
+          <b><a href="https://github.com/andrew1407/stencil">stencil</a></b>: C++17 shared core, Qt 6 desktop app, WebAssembly (Emscripten) browser client, CLI, Python & Zig bindings, Rust MCP server, Go collaboration platform, .NET/C# Telegram bot, image annotation & drawing tool, CMake, Docker, PostgreSQL, Redis, WebSocket, TCP, REST API, CI/CD.
+        </summary>
+        <ul>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/core">Core</a></b>: C++17, STL-only, GUI-free shared logic library (geometry, formulas, color, page metrics, history, projects).</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/pystencil">pystencil</a></b>: stdlib-only Python package, drives the C++ core via ctypes (no third-party deps).</li>
+          <li><b><a href="https://github.com/andrew1407/stencil/tree/main/cli">CLI client</a></b>: Zig, wraps the C++ core over a C ABI, headless image/video editing.</li>
+        </ul>
+      </details>
     </li>
     <li>
       <details>
