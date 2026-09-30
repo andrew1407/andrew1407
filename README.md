@@ -135,7 +135,7 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/andrew1407/stencil" title="🖌️ An image markup & drawing tool on one shared C++ core, scriptable in its own .stc language: a Qt desktop app, a browser app compiled to WebAssembly, and a Zig CLI, plus Chrome and VS Code extensions, a Rust MCP server, a Go server, a Python package, and a dotnet bot."><img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" /></a>
+          <a href="https://github.com/andrew1407/stencil" title="🖌️ An image markup & drawing tool on one shared C++ core, scriptable in its own .stc language: a Qt desktop app, a browser app compiled to WebAssembly, and a Zig CLI, plus Chrome and VS Code extensions, a Rust MCP server, a Go server, a Python package, and a dotnet bot."><img src="https://github.com/andrew1407/stencil/raw/main/common/icons/favicon.svg" alt="stencil icon" height="16" /></a>
           <b><a href="https://github.com/andrew1407/stencil" title="🖌️ An image markup & drawing tool on one shared C++ core, scriptable in its own .stc language: a Qt desktop app, a browser app compiled to WebAssembly, and a Zig CLI, plus Chrome and VS Code extensions, a Rust MCP server, a Go server, a Python package, and a dotnet bot.">stencil</a></b>: WebAssembly (Emscripten) browser client, vanilla JS ES modules, Go collaboration platform (server), C++17 shared core, image annotation & drawing tool, .stc scripting DSL, VS Code extension, REST API, WebSocket, TCP, PostgreSQL, Redis, Docker, CI/CD.
         </summary>
         <ul>
@@ -592,7 +592,7 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/andrew1407/stencil" title="🖌️ An image markup & drawing tool on one shared C++ core, scriptable in its own .stc language: a Qt desktop app, a browser app compiled to WebAssembly, and a Zig CLI, plus Chrome and VS Code extensions, a Rust MCP server, a Go server, a Python package, and a dotnet bot."><img src="https://github.com/andrew1407/stencil/raw/main/browser/favicon.svg" alt="stencil icon" height="16" /></a>
+          <a href="https://github.com/andrew1407/stencil" title="🖌️ An image markup & drawing tool on one shared C++ core, scriptable in its own .stc language: a Qt desktop app, a browser app compiled to WebAssembly, and a Zig CLI, plus Chrome and VS Code extensions, a Rust MCP server, a Go server, a Python package, and a dotnet bot."><img src="https://github.com/andrew1407/stencil/raw/main/common/icons/favicon.svg" alt="stencil icon" height="16" /></a>
           <b><a href="https://github.com/andrew1407/stencil" title="🖌️ An image markup & drawing tool on one shared C++ core, scriptable in its own .stc language: a Qt desktop app, a browser app compiled to WebAssembly, and a Zig CLI, plus Chrome and VS Code extensions, a Rust MCP server, a Go server, a Python package, and a dotnet bot.">stencil</a></b>: C++17 shared core, .stc script engine (lexer, parser, lowering), Qt 6 desktop app, WebAssembly (Emscripten) browser client, CLI, Python & Zig bindings, Rust MCP server, Go collaboration platform, .NET/C# Telegram bot, image annotation & drawing tool, CMake, Docker, PostgreSQL, Redis, WebSocket, TCP, REST API, CI/CD.
         </summary>
         <ul>
