@@ -39,6 +39,23 @@
     <picture>
       <img src="https://img.shields.io/badge/swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Swing">
     </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebRTC-%23333333.svg?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -129,6 +146,36 @@
     <picture>
       <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
     </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -191,6 +238,16 @@
     </picture>
     <picture>
       <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Pyodide-%23306998.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pyodide">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
     </picture>
     <hr>
   </summary>
@@ -282,6 +339,16 @@
     </picture>
     <picture>
       <img src="https://img.shields.io/badge/assembly-%23CC6699.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Pyodide-%23306998.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pyodide">
     </picture>
     <hr>
   </summary>
@@ -430,6 +497,19 @@
     <picture>
       <img src="https://img.shields.io/badge/mpi-%2300599C.svg?style=for-the-badge&logo=MPI&logoColor=white" alt="MPI">
     </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebGPU-%23005A9C.svg?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
+    </picture>
     <hr>
   </summary>
   <ul>
@@ -486,6 +566,22 @@
     </picture>
     <picture>
       <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=%235586A4" alt="OpenGL">
+    </picture>
+    <br>
+    <picture>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/Pyodide-%23306998.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pyodide">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebGPU-%23005A9C.svg?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU">
+    </picture>
+    <picture>
+      <img src="https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
     </picture>
     <hr>
   </summary>
