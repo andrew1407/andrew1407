@@ -439,7 +439,7 @@
           <a href="https://github.com/andrew1407/ParallelCuda" title="⚡ CUDA & C++ parallel computing — CPU/GPU computation and data-passing approaches"><img src="https://github.com/andrew1407/ParallelCuda/raw/main/web/icon.svg" alt="ParallelCuda icon" width="16" height="16" /></a> <b>
             <a href="https://github.com/andrew1407/ParallelCuda" title="⚡ CUDA & C++ parallel computing — CPU/GPU computation and data-passing approaches">ParallelCuda</a>
           </b>
-          : C++, Cuda, CPU & GPU calculation and data passing approaches, WebGPU (WGSL).
+          : C++, Cuda, CPU & GPU calculation and data passing approaches, WebGPU (WGSL), WebGL2 (GLSL).
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/1-lab" title="ParallelCuda — Matrix Multiplication (C++, CUDA)">Matrix Multiplication</a></b>.</li>
@@ -457,7 +457,7 @@
           <a href="https://github.com/andrew1407/ParallelOpenMP" title="⚡ Parallel computing in C++ with OpenMP and MPI — CPU/GPU computation and data passing"><img src="https://github.com/andrew1407/ParallelOpenMP/raw/main/web/icon.svg" alt="ParallelOpenMP icon" width="16" height="16" /></a> <b>
             <a href="https://github.com/andrew1407/ParallelOpenMP" title="⚡ Parallel computing in C++ with OpenMP and MPI — CPU/GPU computation and data passing">ParallelOpenMP</a>
           </b>
-          : C++, OpenMP, MPI, CPU & GPU calculation and data passing approaches, WebAssembly, Web Workers.
+          : C++, OpenMP, MPI, CPU & GPU calculation and data passing approaches, WebAssembly, Web Workers, WebGPU, WebGL2.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/1-lab" title="ParallelOpenMP — Critical Section (C++, OpenMP)">Critical Section</a></b>.</li>
@@ -518,7 +518,7 @@
           <a href="https://github.com/andrew1407/ComputerVision" title="👁️ Computer vision experiments in Python with OpenCV — pixel matrix processing and image segmentation"><img src="https://github.com/andrew1407/ComputerVision/raw/main/web/icon.svg" alt="ComputerVision icon" width="16" height="16" /></a> <b>
             <a href="https://github.com/andrew1407/ComputerVision" title="👁️ Computer vision experiments in Python with OpenCV — pixel matrix processing and image segmentation">ComputerVision</a>
           </b>
-          : Python, computer vision, OpenCV, format pixel matrices, image segmentation, Pyodide.
+          : Python, computer vision, OpenCV, format pixel matrices, image segmentation, Pyodide, WebGPU, WebGL2.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/1-lab" title="ComputerVision — Polygon Animation (Python)">Polygon Animation</a></b>.</li>
