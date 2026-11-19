@@ -43,32 +43,32 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/Andrew1407/ReignForce" title="🎮 UE 5.3 third-person shooter project with reinforcement learning enemy AI training"><img src="https://github.com/andrew1407/ReignForce/raw/main/Doc/Resources/Icons/icon.ico" alt="ReignForce icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/ReignForce" title="🎮 UE 5.3 third-person shooter project with reinforcement learning enemy AI training">ReignForce</a></b>: Unreal Engine 5, C++, Enemy AI, EQS, Decorators & Services, Senses (Perception), Behaviour Tree, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, ONNX models, Skills System Progression.
+      <a href="https://github.com/andrew1407/ReignForce" title="🎮 UE 5.3 third-person shooter project with reinforcement learning enemy AI training"><img src="https://github.com/andrew1407/ReignForce/raw/main/Doc/Resources/Icons/icon.ico" alt="ReignForce icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/ReignForce" title="🎮 UE 5.3 third-person shooter project with reinforcement learning enemy AI training">ReignForce</a></b>: Unreal Engine 5, C++, Enemy AI, EQS, Decorators & Services, Senses (Perception), Behaviour Tree, Enhanced Input, NNE, unit tests, Third-Person Shooter, client-server app, reinforcement learning, ONNX models, Skills System Progression.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/RqstClient" title="🔌 UE 5.2 project for client connection strategies showcase"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png" alt="RqstClient icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/RqstClient" title="🔌 UE 5.2 project for client connection strategies showcase">RqstClient</a></b>: Unreal Engine 5, C++, Enhanced Input, HTTP, WS, UDP, TCP protocols, client-server app, <a href="https://github.com/Andrew1407/ClientConnectionStrategies" title="🔌 HTTP, WS, UDP and TCP unreal c++ client strategies plugin">ClientConnectionStrategies</a> plugin.
+      <a href="https://github.com/andrew1407/RqstClient" title="🔌 UE 5.2 project for client connection strategies showcase"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png" alt="RqstClient icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/RqstClient" title="🔌 UE 5.2 project for client connection strategies showcase">RqstClient</a></b>: Unreal Engine 5, C++, Enhanced Input, HTTP, WS, UDP, TCP protocols, client-server app, <a href="https://github.com/andrew1407/ClientConnectionStrategies" title="🔌 HTTP, WS, UDP and TCP unreal c++ client strategies plugin">ClientConnectionStrategies</a> plugin.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/CartAndPole" title="🎢 Cart and pole Q-learning UDP connection with UE 5.2 and python"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a2.png" alt="CartAndPole icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/CartAndPole" title="🎢 Cart and pole Q-learning UDP connection with UE 5.2 and python">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, ONNX models.
+      <a href="https://github.com/andrew1407/CartAndPole" title="🎢 Cart and pole Q-learning UDP connection with UE 5.2 and python"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a2.png" alt="CartAndPole icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/CartAndPole" title="🎢 Cart and pole Q-learning UDP connection with UE 5.2 and python">CartAndPole</a></b>: Unreal Engine 5, C++, Enhanced Input, NNE, reinforcement learning, ONNX models.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/Reactivation" title="🎮 A third-person shooter made with Unity using a neural network"><img src="https://github.com/andrew1407/Reactivation/raw/main/Assets/Images/Icons/icon.png" alt="Reactivation icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/Reactivation" title="🎮 A third-person shooter made with Unity using a neural network">Reactivation</a></b>: Unity, C#, .Net, Zenject, Third-Person Shooter, unit tests, CI/CD, neural networks, ONNX models, Barracuda.
+      <a href="https://github.com/andrew1407/Reactivation" title="🎮 A third-person shooter made with Unity using a neural network"><img src="https://github.com/andrew1407/Reactivation/raw/main/Assets/Images/Icons/icon.png" alt="Reactivation icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/Reactivation" title="🎮 A third-person shooter made with Unity using a neural network">Reactivation</a></b>: Unity, C#, .Net, Zenject, Third-Person Shooter, unit tests, CI/CD, neural networks, ONNX models, Barracuda.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/GallowsGame" title="🎮 2D sprite Hangman game"><img src="https://github.com/andrew1407/GallowsGame/raw/main/Assets/Art/icon.png" alt="GallowsGame icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/GallowsGame" title="🎮 2D sprite Hangman game">GallowsGame</a></b>: Unity, C#, .Net, Zenject, unit tests, CI/CD, HTTP, WS, UDP, TCP protocols, client app, 2D game.
+      <a href="https://github.com/andrew1407/GallowsGame" title="🎮 2D sprite Hangman game"><img src="https://github.com/andrew1407/GallowsGame/raw/main/Assets/Art/icon.png" alt="GallowsGame icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/GallowsGame" title="🎮 2D sprite Hangman game">GallowsGame</a></b>: Unity, C#, .Net, Zenject, unit tests, CI/CD, HTTP, WS, UDP, TCP protocols, client app, 2D game.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)"><img src="https://github.com/andrew1407/gallows-remastered/raw/main/server/public/images/logo.png" alt="gallows-remastered icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, Redis database, HTTP, WS, UDP, TCP approaches.
+      <a href="https://github.com/andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)"><img src="https://github.com/andrew1407/gallows-remastered/raw/main/server/public/images/logo.png" alt="gallows-remastered icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, Redis database, HTTP, WS, UDP, TCP approaches.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API.">🁁</a> <b><a href="https://github.com/Andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API.">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+      <a href="https://github.com/andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API."><img src="https://github.com/andrew1407/Domino/raw/main/docs/logo.svg" alt="Domino icon" width="16" /></a> <b><a href="https://github.com/andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API.">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/Snake" title="🐍 Classic Snake 2D game built in Java with the Swing API"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png" alt="Snake icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/Snake" title="🐍 Classic Snake 2D game built in Java with the Swing API">Snake</a></b>: Java, Swing API, 2D Game.
+      <a href="https://github.com/andrew1407/Snake" title="🐍 Classic Snake 2D game built in Java with the Swing API"><img src="https://github.com/andrew1407/Snake/raw/master/web/icon.svg" alt="Snake icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/Snake" title="🐍 Classic Snake 2D game built in Java with the Swing API">Snake</a></b>: Java, Swing API, 2D Game, TeaVM.
     </li>
   </ul>
 </details>
@@ -153,25 +153,25 @@
       </details>
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/DichBox" title="🐡 Service for storing and editing boxes"><img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBox icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/DichBox" title="🐡 Service for storing and editing boxes">DichBox</a></b>: Node JS, TypeScript, backend (Express), frontend (React), PostgreSQL, test coverage, CI/CD, HTTP, REST API, online file container management system: server & browser client.
+      <a href="https://github.com/andrew1407/DichBox" title="🐡 Service for storing and editing boxes"><img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBox icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/DichBox" title="🐡 Service for storing and editing boxes">DichBox</a></b>: Node JS, TypeScript, backend (Express), frontend (React), PostgreSQL, test coverage, CI/CD, HTTP, REST API, online file container management system: server & browser client, GitHub Pages demo.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/DichBoxMobile" title="🐡 Mobile client for DichBox"><img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBoxMobile icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/DichBoxMobile" title="🐡 Mobile client for DichBox">DichBoxMobile</a></b>: Kotlin, Android SDK, Retrofit, HTTP client for the DichBox API, test coverage, CI/CD.
+      <a href="https://github.com/andrew1407/DichBoxMobile" title="🐡 Mobile client for DichBox"><img src="https://github.com/andrew1407/DichBox/raw/main/client/src/styles/imgs/full-logo.png" alt="DichBoxMobile icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/DichBoxMobile" title="🐡 Mobile client for DichBox">DichBoxMobile</a></b>: Kotlin, Android SDK, Retrofit, HTTP client for the DichBox API, test coverage, CI/CD, Kotlin/Wasm.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/Gamalia" title="🛒 PHP & SQL e-shop prototype — server-side web application"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png" alt="Gamalia icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/Gamalia" title="🛒 PHP & SQL e-shop prototype — server-side web application">Gamalia</a></b>: PHP, SQL, server app, e-shop prototype.
+      <a href="https://github.com/andrew1407/Gamalia" title="🛒 PHP & SQL e-shop prototype — server-side web application"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png" alt="Gamalia icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/Gamalia" title="🛒 PHP & SQL e-shop prototype — server-side web application">Gamalia</a></b>: PHP, SQL, server app, e-shop prototype.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API.">🁁</a> <b><a href="https://github.com/Andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API.">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
+      <a href="https://github.com/andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API."><img src="https://github.com/andrew1407/Domino/raw/main/docs/logo.svg" alt="Domino icon" width="16" /></a> <b><a href="https://github.com/andrew1407/Domino" title="🁁 Domino game for 2-4 players running on websocket API.">Domino</a></b>: Node JS, TypeScript, backend (NestJS), frontend (React, NextJS), Redis database, 2-4 players game session, browser client, test coverage, CI/CD, HTTP, REST API, WebSocket connection (game sessions), Docker containers.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)"><img src="https://github.com/andrew1407/gallows-remastered/raw/main/server/public/images/logo.png" alt="gallows-remastered icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, Redis database, HTTP, WS, UDP, TCP approaches.
+      <a href="https://github.com/andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)"><img src="https://github.com/andrew1407/gallows-remastered/raw/main/server/public/images/logo.png" alt="gallows-remastered icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/gallows-remastered" title="🎮 Console & browser hangman game implementation (different strategies)">gallows-remastered</a></b>: Node JS, console offline app, console & browser clients, server app, Redis database, HTTP, WS, UDP, TCP approaches.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/ClientConnectionStrategies/tree/main/TestServersApp" title="ClientConnectionStrategies test servers — Node JS HTTP, WS, UDP & TCP serving app"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png" alt="ClientConnectionStrategies TestServersApp icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/ClientConnectionStrategies/tree/main/TestServersApp" title="ClientConnectionStrategies test servers — Node JS HTTP, WS, UDP & TCP serving app">ClientConnectionStrategies TestServersApp</a></b>: Node JS, server app, HTTP, WS, UDP, TCP approaches to serve.
+      <a href="https://github.com/andrew1407/ClientConnectionStrategies/tree/main/TestServersApp" title="ClientConnectionStrategies test servers — Node JS HTTP, WS, UDP & TCP serving app"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png" alt="ClientConnectionStrategies TestServersApp icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/ClientConnectionStrategies/tree/main/TestServersApp" title="ClientConnectionStrategies test servers — Node JS HTTP, WS, UDP & TCP serving app">ClientConnectionStrategies TestServersApp</a></b>: Node JS, server app, HTTP, WS, UDP, TCP approaches to serve.
     </li>
   </ul>
 </details>
@@ -196,11 +196,11 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/Andrew1407/ReignForce/tree/main/TrainingServer" title="ReignForce training server — Python & TensorFlow supervised/reinforcement-learning WebSocket server"><img src="https://github.com/andrew1407/ReignForce/raw/main/Doc/Resources/Icons/icon.ico" alt="ReignForce icon" height="16" /></a>
-      <b><a href="https://github.com/Andrew1407/ReignForce/tree/main/TrainingServer" title="ReignForce training server — Python & TensorFlow supervised/reinforcement-learning WebSocket server">ReignForce Training Server</a></b>: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
+      <a href="https://github.com/andrew1407/ReignForce/tree/main/TrainingServer" title="ReignForce training server — Python & TensorFlow supervised/reinforcement-learning WebSocket server"><img src="https://github.com/andrew1407/ReignForce/raw/main/Doc/Resources/Icons/icon.ico" alt="ReignForce icon" height="16" /></a>
+      <b><a href="https://github.com/andrew1407/ReignForce/tree/main/TrainingServer" title="ReignForce training server — Python & TensorFlow supervised/reinforcement-learning WebSocket server">ReignForce Training Server</a></b>: Python, Tensorflow, supervised learning, reinforcement learning, WebSocket server app.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/ImageUpscaler" title="🖼️ Telegram bot for AI image upscaling"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png" alt="ImageUpscaler icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/ImageUpscaler" title="🖼️ Telegram bot for AI image upscaling">ImageUpscaler</a></b>: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
+      <a href="https://github.com/andrew1407/ImageUpscaler" title="🖼️ Telegram bot for AI image upscaling"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png" alt="ImageUpscaler icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/ImageUpscaler" title="🖼️ Telegram bot for AI image upscaling">ImageUpscaler</a></b>: Python, Jupyter Notebook, Tensorflow, telebot (Telegram bot API), image upscale via chat bot image sending.
     </li>
     <li>
       <a href="https://github.com/dgomilko/SpeechRecognition" title="🎙️ Speech recognition in Python with TensorFlow and Fourier transform"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f399.png" alt="SpeechRecognition icon" width="16" height="16" /></a> <b><a href="https://github.com/dgomilko/SpeechRecognition" title="🎙️ Speech recognition in Python with TensorFlow and Fourier transform">SpeechRecognition</a></b>: Python, Jupyter Notebook, Tensorflow, speech recognition, Fourier transform.
@@ -208,7 +208,7 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/ReinforcementLearningGym" title="🤖 Cart and pole & frozen lake q-learning notebooks"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png" alt="ReinforcementLearningGym icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/ReinforcementLearningGym" title="🤖 Cart and pole & frozen lake q-learning notebooks">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & ONNX format (converters).
+          <a href="https://github.com/andrew1407/ReinforcementLearningGym" title="🤖 Cart and pole & frozen lake q-learning notebooks"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png" alt="ReinforcementLearningGym icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/ReinforcementLearningGym" title="🤖 Cart and pole & frozen lake q-learning notebooks">ReinforcementLearningGym</a></b>: Python, Jupyter Notebook, Tensorflow, Pytorch, supervised learning, reinforcement learning, OpenAI Gym games module (cart & pole, frozen lake), md5 & ONNX format (converters).
         </summary>
         <ul>
           <li>
@@ -234,7 +234,7 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/AI_basics" title="🧠 Python & TensorFlow notebooks on supervised and unsupervised learning and neural network architectures"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png" alt="AI_basics icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/AI_basics" title="🧠 Python & TensorFlow notebooks on supervised and unsupervised learning and neural network architectures">AI_basics</a></b>: Python, Tensorflow, supervised learning, unsupervised learning, models architecture.
+          <a href="https://github.com/andrew1407/AI_basics" title="🧠 Python & TensorFlow notebooks on supervised and unsupervised learning and neural network architectures"><img src="https://github.com/andrew1407/AI_basics/raw/main/web/icon.svg" alt="AI_basics icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/AI_basics" title="🧠 Python & TensorFlow notebooks on supervised and unsupervised learning and neural network architectures">AI_basics</a></b>: Python, Tensorflow, supervised learning, unsupervised learning, models architecture, Pyodide.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/AI_basics/tree/main/1-lab" title="AI_basics — Fuzzy Control Systems Simulator">Fuzzy Control Systems Simulator</a></b>.</li>
@@ -287,21 +287,21 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/Andrew1407/expression_parser" title="🧮 Mathematical expression parser"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ee.png" alt="expression_parser icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/expression_parser" title="🧮 Mathematical expression parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor, unit tests, CI/CD.
+      <a href="https://github.com/andrew1407/expression_parser" title="🧮 Mathematical expression parser"><img src="https://github.com/andrew1407/expression_parser/raw/main/web/icon.svg" alt="expression_parser icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/expression_parser" title="🧮 Mathematical expression parser">expression_parser</a></b>: Python, console app, mathematical expression parser, syntax analysis, syntax tree, parallel form, equivalent forms, dynamic conveyor, unit tests, CI/CD, Pyodide.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/from_Poland_with_love" title="🇵🇱 Polish notation expression calculator in Python with console and window interfaces"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f1.png" alt="from_Poland_with_love icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/from_Poland_with_love" title="🇵🇱 Polish notation expression calculator in Python with console and window interfaces">from_Poland_with_love</a></b>: Python, Polish notation, console & window app.
+      <a href="https://github.com/andrew1407/from_Poland_with_love" title="🇵🇱 Polish notation expression calculator in Python with console and window interfaces"><img src="https://github.com/andrew1407/from_Poland_with_love/raw/master/docs/icon.svg" alt="from_Poland_with_love icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/from_Poland_with_love" title="🇵🇱 Polish notation expression calculator in Python with console and window interfaces">from_Poland_with_love</a></b>: Python, Polish notation, console & window app, Brython.
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/SecuritySystems" title="🔐 Disk model security system"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png" alt="SecuritySystems icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/SecuritySystems" title="🔐 Disk model security system">SecuritySystems</a></b>: C++, disk model, console app, data access control, data crypto algorithms.
+      <a href="https://github.com/andrew1407/SecuritySystems" title="🔐 Disk model security system"><img src="https://github.com/andrew1407/SecuritySystems/raw/main/web/icon.svg" alt="SecuritySystems icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/SecuritySystems" title="🔐 Disk model security system">SecuritySystems</a></b>: C++, disk model, console app, data access control, data crypto algorithms, WebAssembly.
     </li>
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/NumericalTechniques" title="📐 Numerical methods in C++ — Seidel iteration, function interpolation and approximation"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png" alt="NumericalTechniques icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/NumericalTechniques" title="📐 Numerical methods in C++ — Seidel iteration, function interpolation and approximation">NumericalTechniques</a>
+          <a href="https://github.com/andrew1407/NumericalTechniques" title="📐 Numerical methods in C++ — Seidel iteration, function interpolation and approximation"><img src="https://github.com/andrew1407/NumericalTechniques/raw/main/web/icon.svg" alt="NumericalTechniques icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/NumericalTechniques" title="📐 Numerical methods in C++ — Seidel iteration, function interpolation and approximation">NumericalTechniques</a>
           </b>
-          : C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), etc.
+          : C++, Seidel iteration method, table function interpolation, table function approximation (least square technique), WebAssembly, etc.
         </summary>
         <ul>
           <li><b><a href="https://github.com/andrew1407/NumericalTechniques/blob/main/sripts/2-lab.cpp" title="NumericalTechniques — Seidel Iteration Method (C++)">Seidel Iteration Method</a></b>.</li>
@@ -318,10 +318,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/DiscreteStructures" title="🔗 Discrete structures in Scilab — graph representations and path traversal algorithms"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png" alt="DiscreteStructures icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/DiscreteStructures" title="🔗 Discrete structures in Scilab — graph representations and path traversal algorithms">DiscreteStructures</a>
+          <a href="https://github.com/andrew1407/DiscreteStructures" title="🔗 Discrete structures in Scilab — graph representations and path traversal algorithms"><img src="https://github.com/andrew1407/DiscreteStructures/raw/main/web/icon.svg" alt="DiscreteStructures icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/DiscreteStructures" title="🔗 Discrete structures in Scilab — graph representations and path traversal algorithms">DiscreteStructures</a>
           </b>
-          : Scilab, graphs, path traversal.
+          : Scilab, graphs, path traversal, JavaScript.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/DiscreteStructures/blob/main/Scilab/1-lab_3.1.1.sce" title="DiscreteStructures — Adjacency Matrix (Scilab)">Adjacency Matrix</a></b>.</li>
@@ -336,10 +336,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/Algorithms" title="🧮 Classic algorithms and data structures in Python, Haskell and JavaScript — sorting, binary trees, greedy methods"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ee.png" alt="Algorithms icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/Algorithms" title="🧮 Classic algorithms and data structures in Python, Haskell and JavaScript — sorting, binary trees, greedy methods">Algorithms</a>
+          <a href="https://github.com/andrew1407/Algorithms" title="🧮 Classic algorithms and data structures in Python, Haskell and JavaScript — sorting, binary trees, greedy methods"><img src="https://github.com/andrew1407/Algorithms/raw/main/web/icon.svg" alt="Algorithms icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/Algorithms" title="🧮 Classic algorithms and data structures in Python, Haskell and JavaScript — sorting, binary trees, greedy methods">Algorithms</a>
           </b>
-          : Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy algorithms, etc.
+          : Python, Haskell, insertion sort, Pyramid (medians), binary tree, greedy algorithms, Pyodide, etc.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/1-lab.py" title="Algorithms — Insertion Sort (Python)">Insertion Sort</a></b> (<a href="https://github.com/andrew1407/Algorithms/blob/main/scripts/haskell/1-lab.hs" title="Algorithms — Insertion Sort (Haskell version)">other version</a>).</li>
@@ -356,10 +356,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/OperatingSystems" title="🖥️ Operating systems labs in C++ and Python — memory allocators, task manager and optimizations"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png" alt="OperatingSystems icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/OperatingSystems" title="🖥️ Operating systems labs in C++ and Python — memory allocators, task manager and optimizations">OperatingSystems</a>
+          <a href="https://github.com/andrew1407/OperatingSystems" title="🖥️ Operating systems labs in C++ and Python — memory allocators, task manager and optimizations"><img src="https://github.com/andrew1407/OperatingSystems/raw/main/web/icon.svg" alt="OperatingSystems icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/OperatingSystems" title="🖥️ Operating systems labs in C++ and Python — memory allocators, task manager and optimizations">OperatingSystems</a>
           </b>
-          : C++, Python, allocators, task manager, optimizations.
+          : C++, Python, allocators, task manager, optimizations, WebAssembly, Pyodide.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/OperatingSystems/tree/main/1-lab" title="OperatingSystems — Memory Allocator (C++)">Memory Allocator</a></b> (C++).</li>
@@ -374,10 +374,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/EmbeddedSystems" title="🔌 Embedded & real-time systems labs in Python and Kotlin — perceptron and selection algorithms"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png" alt="EmbeddedSystems icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/EmbeddedSystems" title="🔌 Embedded & real-time systems labs in Python and Kotlin — perceptron and selection algorithms">EmbeddedSystems</a>
+          <a href="https://github.com/andrew1407/EmbeddedSystems" title="🔌 Embedded & real-time systems labs in Python and Kotlin — perceptron and selection algorithms"><img src="https://github.com/andrew1407/EmbeddedSystems/raw/main/web/icon.svg" alt="EmbeddedSystems icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/EmbeddedSystems" title="🔌 Embedded & real-time systems labs in Python and Kotlin — perceptron and selection algorithms">EmbeddedSystems</a>
           </b>
-          : Python, Kotlin, perceptron, selection algorithms, real-time systems, etc.
+          : Python, Kotlin, perceptron, selection algorithms, real-time systems, Pyodide, Kotlin/Wasm, etc.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/EmbeddedSystems/blob/main/1-lab/1-lab.py" title="EmbeddedSystems — Signal Generation (Python)">Signal Generation</a></b> (Python).</li>
@@ -394,10 +394,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/STD" title="⚙️ MASM32 assembly experiments — register operations and low-level routines"><img src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" alt="STD icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/STD" title="⚙️ MASM32 assembly experiments — register operations and low-level routines">STD</a>
+          <a href="https://github.com/andrew1407/STD" title="⚙️ MASM32 assembly experiments — register operations and low-level routines"><img src="https://github.com/andrew1407/STD/raw/main/web/icon.svg" alt="STD icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/STD" title="⚙️ MASM32 assembly experiments — register operations and low-level routines">STD</a>
           </b>
-          : masm32 assembly, register operations.
+          : masm32 assembly, register operations, JS x86 interpreter.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/STD/tree/main/1-lab" title="STD — Numeric Values Conversion (MASM32)">Numeric Values Conversion</a></b>.</li>
@@ -436,10 +436,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/ParallelCuda" title="⚡ CUDA & C++ parallel computing — CPU/GPU computation and data-passing approaches"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" alt="ParallelCuda icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/ParallelCuda" title="⚡ CUDA & C++ parallel computing — CPU/GPU computation and data-passing approaches">ParallelCuda</a>
+          <a href="https://github.com/andrew1407/ParallelCuda" title="⚡ CUDA & C++ parallel computing — CPU/GPU computation and data-passing approaches"><img src="https://github.com/andrew1407/ParallelCuda/raw/main/web/icon.svg" alt="ParallelCuda icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/ParallelCuda" title="⚡ CUDA & C++ parallel computing — CPU/GPU computation and data-passing approaches">ParallelCuda</a>
           </b>
-          : C++, Cuda, CPU & GPU calculation and data passing approaches.
+          : C++, Cuda, CPU & GPU calculation and data passing approaches, WebGPU (WGSL).
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ParallelCuda/tree/main/1-lab" title="ParallelCuda — Matrix Multiplication (C++, CUDA)">Matrix Multiplication</a></b>.</li>
@@ -454,10 +454,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/ParallelOpenMP" title="⚡ Parallel computing in C++ with OpenMP and MPI — CPU/GPU computation and data passing"><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" alt="ParallelOpenMP icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/ParallelOpenMP" title="⚡ Parallel computing in C++ with OpenMP and MPI — CPU/GPU computation and data passing">ParallelOpenMP</a>
+          <a href="https://github.com/andrew1407/ParallelOpenMP" title="⚡ Parallel computing in C++ with OpenMP and MPI — CPU/GPU computation and data passing"><img src="https://github.com/andrew1407/ParallelOpenMP/raw/main/web/icon.svg" alt="ParallelOpenMP icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/ParallelOpenMP" title="⚡ Parallel computing in C++ with OpenMP and MPI — CPU/GPU computation and data passing">ParallelOpenMP</a>
           </b>
-          : C++, OpenMP, MPI, CPU & GPU calculation and data passing approaches.
+          : C++, OpenMP, MPI, CPU & GPU calculation and data passing approaches, WebAssembly, Web Workers.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ParallelOpenMP/tree/main/1-lab" title="ParallelOpenMP — Critical Section (C++, OpenMP)">Critical Section</a></b>.</li>
@@ -493,10 +493,10 @@
     <li>
     <details>
       <summary>
-        <a href="https://github.com/Andrew1407/DataScience" title="📊 Python data science notebooks — data analysis, anomaly detection and computer vision with TensorFlow and OpenCV"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" alt="DataScience icon" width="16" height="16" /></a> <b>
-          <a href="https://github.com/Andrew1407/DataScience" title="📊 Python data science notebooks — data analysis, anomaly detection and computer vision with TensorFlow and OpenCV">DataScience</a>
+        <a href="https://github.com/andrew1407/DataScience" title="📊 Python data science notebooks — data analysis, anomaly detection and computer vision with TensorFlow and OpenCV"><img src="https://github.com/andrew1407/DataScience/raw/main/web/icon.svg" alt="DataScience icon" width="16" height="16" /></a> <b>
+          <a href="https://github.com/andrew1407/DataScience" title="📊 Python data science notebooks — data analysis, anomaly detection and computer vision with TensorFlow and OpenCV">DataScience</a>
         </b>
-        : Python, Tensorflow, analyze data, anomalies detection, computer vision, OpenCV.
+        : Python, Tensorflow, analyze data, anomalies detection, computer vision, OpenCV, Pyodide.
       </summary>
       <ol>
         <li><b><a href="https://github.com/andrew1407/DataScience/tree/main/1-lab" title="DataScience — Synthetic Data Generation (Python)">Synthetic Data Generation</a></b>.</li>
@@ -515,10 +515,10 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/ComputerVision" title="👁️ Computer vision experiments in Python with OpenCV — pixel matrix processing and image segmentation"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" alt="ComputerVision icon" width="16" height="16" /></a> <b>
-            <a href="https://github.com/Andrew1407/ComputerVision" title="👁️ Computer vision experiments in Python with OpenCV — pixel matrix processing and image segmentation">ComputerVision</a>
+          <a href="https://github.com/andrew1407/ComputerVision" title="👁️ Computer vision experiments in Python with OpenCV — pixel matrix processing and image segmentation"><img src="https://github.com/andrew1407/ComputerVision/raw/main/web/icon.svg" alt="ComputerVision icon" width="16" height="16" /></a> <b>
+            <a href="https://github.com/andrew1407/ComputerVision" title="👁️ Computer vision experiments in Python with OpenCV — pixel matrix processing and image segmentation">ComputerVision</a>
           </b>
-          : Python, computer vision, OpenCV, format pixel matrices, image segmentation.
+          : Python, computer vision, OpenCV, format pixel matrices, image segmentation, Pyodide.
         </summary>
         <ol>
           <li><b><a href="https://github.com/andrew1407/ComputerVision/tree/main/1-lab" title="ComputerVision — Polygon Animation (Python)">Polygon Animation</a></b>.</li>
@@ -605,7 +605,7 @@
     <li>
       <details>
         <summary>
-          <a href="https://github.com/Andrew1407/ComputerScienceEssentials" title="📚 Computer sciende c++ code examples of main concepts & topics"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" alt="Computer Science Essentials icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/ComputerScienceEssentials" title="📚 Computer sciende c++ code examples of main concepts & topics">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
+          <a href="https://github.com/andrew1407/ComputerScienceEssentials" title="📚 Computer sciende c++ code examples of main concepts & topics"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" alt="Computer Science Essentials icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/ComputerScienceEssentials" title="📚 Computer sciende c++ code examples of main concepts & topics">Computer Science Essentials</a></b>: C++, patterns, datastructs, sorting, etc.
         </summary>
         <ul>
           <li><b><a href="https://github.com/andrew1407/ComputerScienceEssentials/blob/main/datastructs" title="Computer Science Essentials — data structures (C++)">Datastructs</a></b>.</li>
@@ -631,7 +631,7 @@
       </details>
     </li>
     <li>
-      <a href="https://github.com/Andrew1407/OOP" title="🧩 Object-oriented programming in C++ — design patterns and core OOP concepts"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png" alt="OOP icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/OOP" title="🧩 Object-oriented programming in C++ — design patterns and core OOP concepts">OOP</a></b>: C++, object-oriented programming, patterns, etc.
+      <a href="https://github.com/andrew1407/OOP" title="🧩 Object-oriented programming in C++ — design patterns and core OOP concepts"><img src="https://github.com/andrew1407/OOP/raw/main/web/icon.svg" alt="OOP icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/OOP" title="🧩 Object-oriented programming in C++ — design patterns and core OOP concepts">OOP</a></b>: C++, object-oriented programming, patterns, WebAssembly, etc.
     </li>
   </ul>
 </details>
@@ -650,7 +650,7 @@
   </summary>
   <ul>
     <li>
-      <a href="https://github.com/Andrew1407/pantry" title="📦 PostgreSQL pantry storage system — schema design, triggers, functions and normalization"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png" alt="pantry icon" width="16" height="16" /></a> <b><a href="https://github.com/Andrew1407/pantry" title="📦 PostgreSQL pantry storage system — schema design, triggers, functions and normalization">pantry</a></b>: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
+      <a href="https://github.com/andrew1407/pantry" title="📦 PostgreSQL pantry storage system — schema design, triggers, functions and normalization"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png" alt="pantry icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/pantry" title="📦 PostgreSQL pantry storage system — schema design, triggers, functions and normalization">pantry</a></b>: PostgreSQL, tables, triggers, functions, normalization, pantry storage system.
     </li>
     <li>
       <a href="https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md" title="🗄️ MySQL Optimization report"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png" alt="SQL-Query-Optimization icon" width="16" height="16" /></a> <b><a href="https://github.com/andrew1407/MySQL-Query-Optimization/blob/patch-2/Query-Optimization.md" title="🗄️ MySQL Optimization report">SQL-Query-Optimization</a></b>: db queries optimization, indexes, index scan, cluster index, composite index.
